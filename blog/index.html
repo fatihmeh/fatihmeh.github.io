@@ -1,0 +1,10 @@
+---
+layout: default
+title: fatih's blog
+---
+	<h2 id="parag">Check out my writings...</h2>
+	<ul id="blog-list">
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date: "%Y/%m/%d" }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>

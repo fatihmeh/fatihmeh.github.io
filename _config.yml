@@ -1,0 +1,11 @@
+name: Fatih Mehmet Ozcan
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+url: fatihmeh.github.io
+logo: /favicon.svg
+social:
+  links:
+    - https://github.com/fatihmeh
+    - https://gitlab.com/testingusername
+    - https://twitter.com/thus_toz
+    - https://forum.solidworks.com/people/1-7ACHR42
