@@ -22,7 +22,7 @@ footer, header, hgroup, menu, nav, section {
   display: block;
 }
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Georgia, serif
 }
 blockquote, q {
   quotes: none;
@@ -109,13 +109,13 @@ a:hover {
   text-align: justify;
   text-justify: none;
   font-size:1.1rem;
-  line-height:25px;
+  line-height:30px;
   /* color:rgb(42, 42, 42);*/
 }
 
 #post p {
    color:black;
-   margin-bottom:15px;
+   margin-bottom:10px;margin-top:5px;
 }
 
 .footer-links{
