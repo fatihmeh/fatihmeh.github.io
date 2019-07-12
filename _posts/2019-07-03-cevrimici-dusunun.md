@@ -53,7 +53,7 @@ Fakat bu araçlar da endişe verici. Instagram'a foto yükleyen az sayıda insan
 Bu tarz araçlar işe alım süreçlerinde, alışveriş yapanların duygu durumlarını ve suç hareketlerini tahmin etmek için hali hazırda kullanılıyor. Eğer düzgün bir şekilde ayarlanmazsa, yakın gelecekte hakkımızda çıkarım yapılan sonuçlara göre işe alınıp, işten çıkarılacak, sigortaya kabul veya reddedileceğiz.
 
 
-![](/assets/AI-2.png{:class="img-responsive"}
+![](/assets/AI-2.png){:class="img-responsive"}
 
 
 Doğru çıkarımlar söz konusu olduğunda da olay gayet endişe verici. Fakat "computational inference" istatistik odaklı bir teknik olduğu için, bazen işleri yanlış yorumlayabiliyor, ve yaptığı hatanın kaynağını bulmak neredeyse imkansız, bu algoritmalar nasıl işlediğiyle alakalı bir fikir sunmuyor. Bir kişinin iş başvurusu doğruluğundan emin olamadığımız çıkarımlar yüzünden reddedilirse ne olacak?
