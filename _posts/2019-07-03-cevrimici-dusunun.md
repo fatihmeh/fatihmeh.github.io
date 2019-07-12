@@ -2,6 +2,7 @@
 layout: post
 title: Çevrimiçiyken göze çarpmadığınızı mı düşünüyorsunuz?
 date: 2019-07-03
+lang: TR
 ---
 
 
