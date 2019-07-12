@@ -5,7 +5,7 @@ date: 2019-07-03
 ---
 
 
-Bu yazı bir direk çeviridir. ilk olarak Zeynep Tüfekçi tarafından [The New York Times](https://www.nytimes.com/2019/04/21/opinion/computational-inference.html) üzerinde yayınlandı.
+Bu yazı bir direk çeviridir. İlk olarak Zeynep Tüfekçi tarafından 29 Nisan 2019 tarihinde [The New York Times](https://www.nytimes.com/2019/04/21/opinion/computational-inference.html) üzerinde yayınlandı.
 
 
 This text is a direct translation to Turkish. If you have any inquiries, please contact me via mail button at bottom of this page.
@@ -29,13 +29,16 @@ Veri müdahalesi denilen fikir aslında yeni değil. Dergi kayıt listeleri teda
 Günümüz teknolojisi çok daha üst seviyede. Facebook'un olduğu bir örneği gözden geçirelim. 2017 yılında, The Australian adlı gazetenin yayınladığı bir makalede şirketten sızan bir dökümana göre Facebook'un reklam verenlere gençlerin ne zaman "güvensiz", "değersiz" veya "özgüven motivasyonu"na ihtiyaç duyduklarını tahmin edebileceğini söylediği belirtiliyor. Gözüken o ki, Facebook bunları fotoğraflardan, gönderilerden ve diğer sosyal medya verilerinden süzüyor.
 
 
+![](/assets/AI-1.jpg)
+
+
 Facebook reklam verenlere insanları bu karakteristik özelliklere göre hedef sunduğunu reddetti, fakat bu kapasiteye sahip olduğu büyük oranda doğru. Geçen sene akademisyenler tarafından yapılan bir araştırmada, Facebook kullanıcılarında depresyonun tahmin edebilebildiğini, üstelik Facebook'tan çok daha az veriye erişebildikleri halde gösterdiler. Hal böyleyken Facebook insanların sosyal medya hareketlerinden güncel ve gelecek mental sağlık durumunlarını elde edebilme imkanını şimdilik pazarlamasa bile bunu elde edebileceği(ve gözüken-gözükmeyen diğer aktörlerle) gerçeği yeterince endişe verici.
 
 
 Üstünde durulması gereken nokta, bugünün "computational inference" yapıları Facebook kullanıcısının "depresyondayım" veya "kendimi çok kötü hissediyorum" gibi kalıp gönderilerini kontrol etmek için değildir. Teknoloji bundan daha sofistike bir şey: Makine öğrenimi algoritmaları devasa hacimde veriyle besleniyor, ve bilgisayar programı kimin daha çok depresyona yatkın olabileceğini kategorilendiriyor.
 
 
-Başka bir örneği gözden geçirelim. 2017 yılında, akademisyenler 40000'den fazla Instagram fotosu üzerinde makine öğrenimi kullanarak 166 Instagram kullanıcısının depresyon belirtilerini doğru olarak belirleyebildi. Hazırladıkları bilgisayar modeli depresyon belirtilerini fotoğrafların mutlu mu mutsuz mu gözüktüğü sorulan insanlardan daha iyi tahmin ettiği ortaya çıktı.</p>
+Başka bir örneği gözden geçirelim. 2017 yılında, akademisyenler 40000'den fazla Instagram fotosu üzerinde makine öğrenimi kullanarak 166 Instagram kullanıcısının depresyon belirtilerini doğru olarak belirleyebildi. Hazırladıkları bilgisayar modeli depresyon belirtilerini fotoğrafların mutlu mu mutsuz mu gözüktüğü sorulan insanlardan daha iyi tahmin ettiği ortaya çıktı.
 
 
 Saygın amaçlarla kullanılırsa "computational inference" muhteşem bir şey olur. Depresyonu klinik semptomlardan önce tahmin edebilmek halk sağlığı için bir lütuf olabilir. Akademisyenler erken teşhis ve tedaviyi hedefleyerek bu araçları araştırıyorlar.
@@ -50,6 +53,9 @@ Fakat bu araçlar da endişe verici. Instagram'a foto yükleyen az sayıda insan
 Bu tarz araçlar işe alım süreçlerinde, alışveriş yapanların duygu durumlarını ve suç hareketlerini tahmin etmek için hali hazırda kullanılıyor. Eğer düzgün bir şekilde ayarlanmazsa, yakın gelecekte hakkımızda çıkarım yapılan sonuçlara göre işe alınıp, işten çıkarılacak, sigortaya kabul veya reddedileceğiz.
 
 
+![](/assets/AI-2.jpg)
+
+
 Doğru çıkarımlar söz konusu olduğunda da olay gayet endişe verici. Fakat "computational inference" istatistik odaklı bir teknik olduğu için, bazen işleri yanlış yorumlayabiliyor, ve yaptığı hatanın kaynağını bulmak neredeyse imkansız, bu algoritmalar nasıl işlediğiyle alakalı bir fikir sunmuyor. Bir kişinin iş başvurusu doğruluğundan emin olamadığımız çıkarımlar yüzünden reddedilirse ne olacak?
 
 
@@ -59,13 +65,13 @@ Doğru çıkarımlar söz konusu olduğunda da olay gayet endişe verici. Fakat 
 Numranız birkaç kez yüklendikten sonra, Facebook sizi bir sosyal ağa yerleştirebilr, bu da etrafımızdaki kişilerle bağlantı kurduğumuz sürece hakkınızda çıkarım yapmasına yardımcı olur.(Hatta bütün web üzerinde gizli olarak takip etmeye yarayan "tracking pixel"ler aracılığıyla -sadece Facebook üzerinde değil- direk kullanıcı olmayan kişilerin "shadow" profillerini oluşturarak hareketlerini aktarıyor.)
 
 
-Geçen sene, Senatör Ron Wyden tarafından başlatılan bir araştırma, Verizon, T-Mobile, Sprint ve AT&T firmalarının kişilerin gerçek zamanlı konum verilerini sattığını ortaya çıkardı. Geçen sene The New York Times tarafından hazırlanan bir araştırma raporu ve güvenlik analisti Will Strafach tarafından yapılan başka bir sorgu da, the Weather Channel, AccuWeather ve WeatherBug gibi hava durumu uygulamaları kullanıcılarının konum verilerini sattığını gösterdi. Bu veriler sadece sizi takip etmeye değil hakkınızda çıkarımlarda bulunmaya da yarıyor. Kanser klimiğinde ne yapıyordun? Neden sabahın 5inde eşin olmayan bir kadının evinden çıkıyordun?
+Geçen sene, Senatör Ron Wyden tarafından başlatılan bir araştırma, Verizon, T-Mobile, Sprint ve AT&T firmalarının kişilerin gerçek zamanlı konum verilerini sattığını ortaya çıkardı. Geçen sene The New York Times tarafından hazırlanan bir araştırma raporu ve güvenlik analisti Will Strafach tarafından yapılan başka bir sorgu da, the Weather Channel, AccuWeather ve WeatherBug gibi hava durumu uygulamaları kullanıcılarının konum verilerini sattığını gösterdi. Bu veriler sadece sizi takip etmeye değil hakkınızda çıkarımlarda bulunmaya da yarıyor. Kanser kliniğinde ne yapıyordun? Neden sabahın 5'inde eşin olmayan bir kadının evinden çıkıyordun?
 
 
 Gazeteci Kashmir Hill'e göre, Facebook, bir psikyatristin hastalarının birbirlerine potansiyel arkadaş olarak önerdiği, eşinin kendisini aldattığı kişiyi arkadaş olarak önerdiği, ve hayat kadınlarını gerçek kimliğini ortaya çıkardığı gibi durumlar var. Şirketlerin platformlarını büyütmek için bu açıkları kullanmasını, bu tarz bağlantılar kurmasını istemiyoruz.
 
 
-Ne yapmak gerek? Telefonları ve diğer cihazları gizliliği sağlayabilecek şekilde tasarlamak bir başlangıç olabilir, ve devletlerin veri akışı ve toplanımı ile ilgili düzenlemler yapması olayı biraz ağırdan almaya yardımcı olur. Fakat bu kesin bir sonuç değil. "Computational inference" düzenleyici direk regülasyonları kapsayan kanunlar düzenlenmeli: Yapılacak çıkarımların ne olacağı, hangi koşullarda, hangi kontrol ve dayanımlara göre, nasıl bir şeffaflıkta olacağı, yalnış kullanım durumunda cezalarının ne olacağı gibi.
+Ne yapmak gerek? Telefonları ve diğer cihazları gizliliği sağlayabilecek şekilde tasarlamak bir başlangıç olabilir, ve devletlerin veri akışı ve toplanımı ile ilgili düzenlemeler yapması olayı biraz ağırdan almaya yardımcı olur. Fakat bu kesin bir sonuç değil. "Computational inference" düzenleyici direk regülasyonları kapsayan kanunlar düzenlenmeli: Yapılacak çıkarımların ne olacağı, hangi koşullarda, hangi kontrol ve dayanımlara göre, nasıl bir şeffaflıkta olacağı, yalnış kullanım durumunda cezalarının ne olacağı gibi.
 
 
 Bu sorulara tatmin edici cevaplarımız oluncaya kadar, diğerlerinin sizin hakkınızda gittikçe daha fazla şey öğreneceğini bekleyebilirizi, ne kadar gizli kalmaya çalışırsanız dahi.
