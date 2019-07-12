@@ -128,9 +128,9 @@ a:hover {
 
 @media only screen and (max-width: 1279px) {
    #whole {
-    width: 85%;
+    width: 90%;
   }
   .img-responsive {
-    width: 90%; height: auto;
+    width: 100%; height: auto;
   }
 }
