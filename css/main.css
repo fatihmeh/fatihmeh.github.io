@@ -130,4 +130,7 @@ a:hover {
    #whole {
     width: 85%;
   }
+  .img-responsive{
+    width: 50%;
+  }
 }

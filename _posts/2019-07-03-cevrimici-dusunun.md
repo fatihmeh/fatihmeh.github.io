@@ -29,7 +29,7 @@ Veri müdahalesi denilen fikir aslında yeni değil. Dergi kayıt listeleri teda
 Günümüz teknolojisi çok daha üst seviyede. Facebook'un olduğu bir örneği gözden geçirelim. 2017 yılında, The Australian adlı gazetenin yayınladığı bir makalede şirketten sızan bir dökümana göre Facebook'un reklam verenlere gençlerin ne zaman "güvensiz", "değersiz" veya "özgüven motivasyonu"na ihtiyaç duyduklarını tahmin edebileceğini söylediği belirtiliyor. Gözüken o ki, Facebook bunları fotoğraflardan, gönderilerden ve diğer sosyal medya verilerinden süzüyor.
 
 
-![](/assets/AI-1.jpg)
+![](/assets/AI-1.jpg){:class="img-responsive"}
 
 
 Facebook reklam verenlere insanları bu karakteristik özelliklere göre hedef sunduğunu reddetti, fakat bu kapasiteye sahip olduğu büyük oranda doğru. Geçen sene akademisyenler tarafından yapılan bir araştırmada, Facebook kullanıcılarında depresyonun tahmin edebilebildiğini, üstelik Facebook'tan çok daha az veriye erişebildikleri halde gösterdiler. Hal böyleyken Facebook insanların sosyal medya hareketlerinden güncel ve gelecek mental sağlık durumunlarını elde edebilme imkanını şimdilik pazarlamasa bile bunu elde edebileceği(ve gözüken-gözükmeyen diğer aktörlerle) gerçeği yeterince endişe verici.
@@ -53,7 +53,7 @@ Fakat bu araçlar da endişe verici. Instagram'a foto yükleyen az sayıda insan
 Bu tarz araçlar işe alım süreçlerinde, alışveriş yapanların duygu durumlarını ve suç hareketlerini tahmin etmek için hali hazırda kullanılıyor. Eğer düzgün bir şekilde ayarlanmazsa, yakın gelecekte hakkımızda çıkarım yapılan sonuçlara göre işe alınıp, işten çıkarılacak, sigortaya kabul veya reddedileceğiz.
 
 
-![](/assets/AI-2.png)
+![](/assets/AI-2.png{:class="img-responsive"}
 
 
 Doğru çıkarımlar söz konusu olduğunda da olay gayet endişe verici. Fakat "computational inference" istatistik odaklı bir teknik olduğu için, bazen işleri yanlış yorumlayabiliyor, ve yaptığı hatanın kaynağını bulmak neredeyse imkansız, bu algoritmalar nasıl işlediğiyle alakalı bir fikir sunmuyor. Bir kişinin iş başvurusu doğruluğundan emin olamadığımız çıkarımlar yüzünden reddedilirse ne olacak?
