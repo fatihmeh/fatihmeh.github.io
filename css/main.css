@@ -131,6 +131,6 @@ a:hover {
     width: 85%;
   }
   .img-responsive {
-    width: 50%; height:50%;
+    width: 90%; height: auto;
   }
 }
