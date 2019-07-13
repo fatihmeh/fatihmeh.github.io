@@ -64,7 +64,7 @@ table {
   margin-bottom:40px;
 }
 
-#parag {
+.parag {
   font-size: 1.4rem; margin-bottom:30px;
   color:DarkSlateGray;
 }
@@ -79,7 +79,6 @@ li {
   list-style-position: inside;
   color:black;
 }
-
 li a{
   color:rgb(42, 42, 42);
 }
@@ -87,7 +86,6 @@ li a{
 a {
     text-decoration: none;
 }
-
 a:hover {
     color:chocolate;
 }
@@ -97,13 +95,11 @@ a:hover {
   margin-bottom:20px;
   color:DarkSlateGray;
 }
-
 #post-date{
   font-size: 1.2rem;
   margin-bottom:20px;
   color:LightSlateGrey;
 }
-
 #post {
   margin-bottom:40px;
   text-align: left;
@@ -111,7 +107,6 @@ a:hover {
   font-size:1.1rem;
   line-height:30px;
 }
-
 #post p {
    color:black;
    margin-bottom:20px;margin-top:20px;
@@ -121,7 +116,6 @@ a:hover {
   margin-right:5px;margin-left:5px;
   -webkit-filter: invert(50%);filter: invert(50%);
 }
-
 .footer-links:hover {
   -webkit-filter: invert(0%);filter: invert(0%);
 }
