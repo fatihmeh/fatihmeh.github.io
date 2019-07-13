@@ -100,14 +100,14 @@ a:hover {
   margin-bottom:20px;
   color:LightSlateGrey;
 }
-#post {
+#post, .about {
   margin-bottom:40px;
   text-align: left;
   text-justify: none;
-  font-size:1.1rem;
+  /* font-size:1rem; */
   line-height:30px;
 }
-#post p {
+#post p, .about p {
    color:black;
    margin-bottom:20px;margin-top:20px;
 }
