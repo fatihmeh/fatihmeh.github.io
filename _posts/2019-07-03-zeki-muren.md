@@ -4,16 +4,19 @@ title: Zeki Müren de bizi görecek mi?
 date: 2019-07-03
 lang: TR
 ---
-<br>
+
 
 *İlk olarak Teknoseyir.com'da yayınlanmıştır.*
 
 
 [https://teknoseyir.com/blog/zeki-muren-de-bizi-gorecek-mi](https://teknoseyir.com/blog/zeki-muren-de-bizi-gorecek-mi)
-<br>
-<br>
+
+
+
 <hr>
-<br>
+
+
+
 Online gizliliğimizi korumak adına yapmaya çalıştığımız şeylerin ne kadarı etkili olduğu hakkında bir yazı hazırladım. Çoğunlukla web odaklı konulardan bahsediyorum ve geliştirici olmadığım için bu yapıları entegre etmenin olumlu-olumsuz değerlendirmesini yapamıyorum. Burada maliyet, performans, güvenlik gibi birçok faktör işin içinde, tez yazılabilecek mevzular bunlar. Bir noktaya kadar insanlar kendilerinden alınan bilgiler için hassas davranabiliyorlar. Fakat göz göre göre yapılmıyorsa ardından giden olmayacaktır.
 <br>
 <br>
