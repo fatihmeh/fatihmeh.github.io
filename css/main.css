@@ -38,12 +38,11 @@ table {
 }
 
 #whole {
-    margin-left:600px;  margin-right:600px; margin-top: 30px;
+    width:40%; margin:auto; margin-top: 30px;
 }
 
 #header-div, #footer {
-  text-align:left; margin-bottom: 40px; margin-top:40px;
-  padding-left:200px;
+  text-align:center; margin-bottom: 40px; margin-top:40px;
 }
 
 #header-text {
@@ -123,7 +122,7 @@ a:hover {
 
 @media only screen and (max-width: 1279px) {
    #whole {
-    width: 90%; margin: auto;
+    width: 90%;
   }
   .img-responsive {
     width: 100%; height: auto;
