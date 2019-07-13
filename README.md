@@ -1,4 +1,4 @@
-Latest personal interests about CAD(Computer aided design), Solidworks World presentations, 3D printing and models, macros and so on, check the link below for everything.
+A site about CAD(Computer aided design) stuff, Solidworks World presentations, 3D printing, models, macros and so on, check the link below for everything.
 
 
 https://fatihmeh.github.io
