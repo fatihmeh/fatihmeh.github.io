@@ -2,7 +2,7 @@
 layout: default
 title: blog - fatih mehmet ozcan
 ---
-	<h2 class="parag">Check out my writings...</h2>
+	<h2 class="parag">Check out my writings</h2>
 	<ul id="blog-list">
 	  {% for post in site.posts %}
 	    <li><span>{{ post.date | date: "%Y/%m/%d" }}</span> » <span>{{ post.lang }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
