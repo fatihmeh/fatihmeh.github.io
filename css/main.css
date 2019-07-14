@@ -16,25 +16,8 @@ time, mark, audio, video {
   border: 0;
 }
 
-/* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure,
-footer, header, hgroup, menu, nav, section {
-  display: block;
-}
 body {
   font-family: Georgia, serif
-}
-blockquote, q {
-  quotes: none;
-}
-blockquote:before, blockquote:after,
-q:before, q:after {
-  content: '';
-  content: none;
-}
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
 }
 
 #whole {
@@ -46,17 +29,15 @@ table {
 }
 
 #header-text {
-  color:black;
   margin-bottom:20px;
-  font-size: 2rem;
-  font-weight: lighter;
+  font-size: 1.2rem;
+  color:DarkSlateGray;
 }
 
 .nav {
   margin-right:5px; margin-left:5px; margin-bottom:5px;
   color:black;
-  text-decoration: none;
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 #container {
@@ -75,7 +56,7 @@ span {
 
 li {
   margin-top:10px; margin-bottom:10px;
-  font-size: 1.1rem;
+  font-size: 1rem;
   list-style-position: inside;
   color:black;
 }
@@ -104,7 +85,7 @@ a:hover {
   margin-bottom:40px;
   text-align: left;
   text-justify: none;
-  font-size:1.1rem;
+  font-size:1rem;
   line-height:30px;
 }
 #post p, .about p {
