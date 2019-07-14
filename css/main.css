@@ -56,7 +56,7 @@ table {
   margin-right:5px; margin-left:5px; margin-bottom:5px;
   color:black;
   text-decoration: none;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
 }
 
 #container {
@@ -113,7 +113,7 @@ a:hover {
 }
 
 .footer-links{
-  margin-right:5px;margin-left:5px;
+  margin-right:5px;margin-left:5px; display:inline-block;
   -webkit-filter: invert(50%);filter: invert(50%);
 }
 .footer-links:hover {
