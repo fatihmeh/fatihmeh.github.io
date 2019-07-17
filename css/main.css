@@ -16,6 +16,9 @@ time, mark, audio, video {
   border: 0;
 }
 
+
+/* main */
+
 body {
   font-family: Georgia, serif
 }
@@ -23,6 +26,14 @@ body {
 #whole {
     width:40%; margin:auto; margin-top: 30px;
 }
+
+#container {
+  text-align:left;
+  margin-bottom:40px;
+}
+
+
+/* top */
 
 #header-div, #footer {
   text-align:center; margin-bottom: 40px; margin-top:40px;
@@ -41,26 +52,36 @@ body {
   font-size: 1.1rem;
 }
 
-#container {
-  text-align:left;
-  margin-bottom:40px;
-}
-
-.parag {
+.parag-header{
   font-size: 1.4rem; margin-bottom:30px;
   color:DarkSlateGray;
 }
 
-span {
-  color:LightSlateGray;
-}
 
-li {
+/* lists */
+
+.ul-project-list li {
   margin-top:10px; margin-bottom:10px;
   font-size: 1rem;
   list-style-position: inside;
   color:black;
 }
+
+.ul-blog-list {
+list-style-type: none; margin-top:10px; margin-bottom:10px;
+}
+
+.blog-header-text {
+font-size:1.2rem; color: darkred;
+}
+
+.blog-header-subtitle {
+  color:LightSlateGray; margin-bottom:10px;margin-top:10px;
+}
+
+
+/* links */
+
 li a{
   color:rgb(42, 42, 42);
 }
@@ -72,27 +93,33 @@ a:hover {
     color:chocolate;
 }
 
-#post-title {
+
+/* inside post */
+
+.post-title {
   font-size: 1.4rem;
   margin-bottom:20px;
   color:DarkSlateGray;
 }
-#post-date{
+.post-date{
   font-size: 1.2rem;
   margin-bottom:20px;
   color:LightSlateGrey;
 }
-#post, .about {
+.post, .about {
   margin-bottom:40px;
   text-align: left;
   text-justify: none;
   font-size:1rem;
   line-height:30px;
 }
-#post p, .about p {
+.post p, .about p {
    color:black;
    margin-bottom:20px;margin-top:20px;
 }
+
+
+/* footer */
 
 .footer-links{
   margin-right:5px;margin-left:5px; display:inline-block;
@@ -101,6 +128,9 @@ a:hover {
 .footer-links:hover {
   -webkit-filter: invert(0%);filter: invert(0%);
 }
+
+
+/* mobile */
 
 @media only screen and (max-width: 1279px) {
    #whole {
