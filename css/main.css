@@ -80,15 +80,15 @@ a:hover {
 .blog-title {
   font-size: 1.3rem; color:black; margtin-bottom:10px;
 }
-
 .blog-date {
   font-size: 0.9rem; color:lightslategray; margin-bottom:10px;
 }
-
 .blog-excerpt {
   color: lightslategray; margin-top:10px; font-size:1rem;
 }
-
+.info-text{
+  color:darkred;
+}
 
 /* inside post */
 

@@ -6,7 +6,7 @@ title: blog - fatih mehmet ozcan
 	<ul class="ul-blog-list">
 	  {% for post in site.posts %}
 		<li>
-		<p class="blog-date">{{ {{ post.date | date: "%Y/%m/%d" }} }} » {{ post.lang }}</p>
+		<p class="blog-date"><span class="info-text">Date:</span> {{ post.date | date: "%Y/%m/%d" }} » <span class="info-text">Lang:</span> {{ post.lang }}</p>
 		<a class="blog-title" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 		<p class="blog-excerpt">{{ post.excerpt }}</p>
 		</li>
