@@ -75,13 +75,13 @@ a:hover {
   color:black;
 }
 .ul-blog-list,  .ul-blog-list li {
-  list-style-type:none; margin-bottom: 40px; margin-top: 40px;
+  list-style-type:none; margin-bottom: 50px; margin-top: 40px;
 }
 .blog-title {
   font-size: 1.3rem; color:DarkSlateGray;
 }
 .blog-excerpt {
-  color: lightslategray; margin-top:15px; margin-bottom:10px; font-size:1.1rem; padding-left:10px;
+  color: lightslategray; margin-top:10px; margin-bottom:10px; font-size:1.1rem; padding-left:20px;
 }
 
 
