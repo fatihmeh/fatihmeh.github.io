@@ -6,8 +6,9 @@ title: blog - fatih mehmet ozcan
 	<ul class="ul-blog-list">
 	  {% for post in site.posts %}
 		<li  class="li-blog-listing">
-		<a class="blog-header-text" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-		<p class="blog-header-excerpt">{{ post.excerpt }}</p>
+		<a class="post-title" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+		<p class="post-date">{{ post.excerpt }}</p>
+		<p class="post-excerpt">{{ post.excerpt }}</p>
 		</li>
 	  {% endfor %}
 	</ul>
