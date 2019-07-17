@@ -7,9 +7,8 @@ title: blog - fatih mehmet ozcan
 	  {% for post in site.posts %}
 		<li>
 		<a class="blog-header-text" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-		<p class="blog-header-subtitle">{{ post.lang }}</p>
-		<p class="blog-header-subtitle">{{ post.date }}</p>
-		<p class="blog-header-subtitle">{{ post.excerpt }}</p>
+		<p class="blog-header-tags">{{ post.tags }}</p>
+		<p class="blog-header-excerpt">{{ post.excerpt }}</p>
 		</li>
 	  {% endfor %}
 	</ul>

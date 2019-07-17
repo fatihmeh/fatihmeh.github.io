@@ -3,6 +3,8 @@ layout: post
 title: Çevrimiçiyken göze çarpmadığınızı mı düşünüyorsunuz?
 date: 2019-07-03
 lang: TR
+excerpt: Zeynep Tüfekçi tarafından yazılan makalenin, İngilizce'den Türkçe'ye çevirisidir
+tags: data inference, computational inference, algorithm, algoritma, privacy, gizlilik, artificial intelligence, yapay zeka
 ---
 
 

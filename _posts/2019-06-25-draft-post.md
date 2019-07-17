@@ -3,6 +3,8 @@ layout: post
 title: Draft post
 date: 2019-06-25
 lang: EN
+excerpt: Draft post
+tags: deneme, draft
 ---
 
 Denemelik postlarda bugün:
