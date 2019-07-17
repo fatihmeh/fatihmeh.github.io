@@ -87,7 +87,7 @@ a:hover {
   color: lightslategray; margin-top:10px; margin-top:10px; font-size:1rem;
 }
 .info-text{
-  color:darkred; font-family: "Times New Roman", Times, serif;
+  color:darkred; font-family: "Courier New", Courier, monospace;
 }
 
 /* inside post */
