@@ -81,10 +81,10 @@ a:hover {
   font-size: 1.3rem; color:black;
 }
 .blog-date {
-  font-size: 0.9rem; color:lightslategray; margin-bottom:10px; margin-top:10px;
+  font-size: 0.9rem; color:lightslategray; margin-bottom:10px;
 }
 .blog-excerpt {
-  color: lightslategray; margin-top:10px; font-size:1rem;
+  color: lightslategray; margin-top:10px; margin-top:10px; font-size:1rem;
 }
 .info-text{
   color:darkred; font-family: "Times New Roman", Times, serif;
