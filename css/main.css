@@ -75,12 +75,7 @@ a:hover {
   color:black;
 }
 .ul-blog-list,  .ul-blog-list li {
-list-style-type:none; margin-bottom: 40px; margin-top: 40px;
-}
-.ul-blog-list li:before {
-  content: "•";
-  padding-right: 8px;
-  color: chocolate;
+margin-bottom: 40px; margin-top: 40px;
 }
 .blog-title {
   font-size: 1.3rem; color:black;
