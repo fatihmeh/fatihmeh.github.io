@@ -80,11 +80,8 @@ a:hover {
 .blog-title {
   font-size: 1.3rem; color:DarkSlateGray;
 }
-.blog-date{
-  font-size: 1rem; margin-bottom:10px; margin-top:10px; color:LightSlateGray;  padding-left:10px;
-}
 .blog-excerpt {
-  color: lightslategray; margin-bottom:10px; font-size:1.1rem; padding-left:10px;
+  color: lightslategray; margin-top:15px; margin-bottom:10px; font-size:1.1rem; padding-left:10px;
 }
 
 
