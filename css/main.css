@@ -74,27 +74,23 @@ a:hover {
 
 /* lists */
 
-.ul-project-list li {
+.ul-project-list li, .ul-blog-list {
   margin-top:10px; margin-bottom:10px;
   font-size: 1rem;
   list-style-position: inside;
   color:black;
 }
 
-.ul-blog-list {
-list-style-type: none; margin-top:10px; margin-bottom:10px;
+.li-blog-listing {
+margin-bottom:30px;
 }
 
 .blog-header-text {
-font-size:1.4rem; color: darkred; margin-top:30px;
-}
-
-.blog-header-tags {
-  color:LightSlateGray; margin-bottom:10px;margin-top:10px;
+font-size:1.2rem; color: darkred;
 }
 
 .blog-header-excerpt {
-  color: darkgray; margin-bottom:10px;margin-top:10px; font-size:1.2rem;
+  color: lightslategray; margin-bottom:10px;margin-top:10px; font-size:1rem; padding-left:15px;
 }
 
 

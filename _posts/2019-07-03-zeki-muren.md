@@ -3,8 +3,7 @@ layout: post
 title: Zeki Müren de bizi görecek mi?
 date: 2019-07-03
 lang: TR
-excerpt: Çevrimiçi kimiliğinize nasıl ulaşıldığı ve detayları
-tags: privacy, gizlilik, eklentiler- add-ons, firefox, chrome, web-rtc, vpn, tor
+excerpt: Çevrimiçi kimiliğinize nasıl ulaşıldığı ve detayları.
 ---
 
 
