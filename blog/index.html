@@ -7,7 +7,7 @@ title: blog - fatih mehmet ozcan
 	  {% for post in site.posts %}
 		<li>
 		<a class="blog-title" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-		<p class="blog-date">{{ {{ post.date | date: "%Y/%m/%d" }} }} » <span>{{ post.lang }}</span></p>
+		<p class="blog-date"><span>{{ {{ post.date | date: "%Y/%m/%d" }} }}</span> » <span>{{ post.lang }}</span></p>
 		<p class="blog-excerpt">{{ post.excerpt }}</p>
 		</li>
 	  {% endfor %}

@@ -22,11 +22,9 @@ time, mark, audio, video {
 body {
   font-family: Georgia, serif
 }
-
 #whole {
     width:40%; margin:auto; margin-top: 30px;
 }
-
 #container {
   text-align:left;
   margin-bottom:40px;
@@ -38,20 +36,17 @@ body {
 #header-div, #footer {
   text-align:center; margin-bottom: 40px; margin-top:40px;
 }
-
 #header-text {
   margin-bottom:20px;
   font-size: 2rem;
   color:DarkSlateGray;
   font-weight: lighter;
 }
-
 .nav {
   margin-right:8px; margin-left:8px; margin-bottom:5px;
   color:black;
   font-size: 1.1rem;
 }
-
 .parag-header{
   font-size: 1.4rem; margin-bottom:30px;
   color:DarkSlateGray;
@@ -63,7 +58,6 @@ body {
 li a{
   color:rgb(42, 42, 42);
 }
-
 a {
     text-decoration: none;
 }
@@ -80,24 +74,19 @@ a:hover {
   list-style-position: inside;
   color:black;
 }
-
-ul-blog-list {
-  list-style-type:none;
+.ul-blog-list,  .ul-blog-list li {
+  list-style-type:none; margin-bottom: 40px; margin-top: 40px;
 }
-
-.li-blog-list {
-margin-bottom:30px; list-style-type: none;
-}
-
 .blog-title {
-  font-size: 1.2rem; color:DarkSlateGray;
+  font-size: 1.3rem; color:DarkSlateGray;
 }
 .blog-date{
-  font-size: 1rem; margin-bottom:20px; margin-top:10px; color:LightSlateGray;  padding-left:10px;
+  font-size: 1rem; margin-bottom:10px; margin-top:10px; color:LightSlateGray;  padding-left:10px;
 }
 .blog-excerpt {
   color: lightslategray; margin-bottom:10px; font-size:1.1rem; padding-left:20px;
 }
+
 
 /* inside post */
 
@@ -143,5 +132,8 @@ margin-bottom:30px; list-style-type: none;
   }
   .img-responsive {
     width: 100%; height: auto;
+  }
+  .blog-date {
+    display:none;
   }
 }
