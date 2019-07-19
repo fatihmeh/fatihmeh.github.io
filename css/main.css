@@ -55,8 +55,11 @@ body {
 
 /* lists */
 
-.nav, .ul-project-list li a {
+.nav, .ul-project-list li a, .about a {
   text-decoration: none;
+}
+.about a{
+  font-weight: bold;
 }
 .ul-project-list li {
   margin-top:10px; margin-bottom:10px;
@@ -81,7 +84,7 @@ body {
 .info-text{
   color:darkred; font-family: "Courier New", Courier, monospace;
 }
-a:hover {
+a:hover, .blog-title:hover {
   color:chocolate;
 }
 
