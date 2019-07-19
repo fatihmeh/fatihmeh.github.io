@@ -59,7 +59,7 @@ body {
   text-decoration: none;
 }
 .about a{
-  font-weight: bold;
+  font-weight: bold; color:black;
 }
 .ul-project-list li {
   margin-top:10px; margin-bottom:10px;
