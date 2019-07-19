@@ -55,7 +55,7 @@ body {
 
 /* lists */
 
-.nav, .ul-project-list li a, .about a {
+.nav, .ul-project-list li a, .about a, .ul-blog-list a {
   text-decoration: none;
 }
 .about a{
