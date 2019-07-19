@@ -53,18 +53,11 @@ body {
 }
 
 
-/* links */
-
-a:hover {
-    color:chocolate;
-}
-.nav a, .ul-project-list li a {
-  text-decoration: none;
-}
-
-
 /* lists */
 
+.nav, .ul-project-list li a {
+  text-decoration: none;
+}
 .ul-project-list li {
   margin-top:10px; margin-bottom:10px;
   font-size: 1rem;
@@ -88,6 +81,10 @@ a:hover {
 .info-text{
   color:darkred; font-family: "Courier New", Courier, monospace;
 }
+a:hover {
+  color:chocolate;
+}
+
 
 /* inside post */
 
