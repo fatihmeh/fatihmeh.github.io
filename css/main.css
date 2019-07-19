@@ -101,13 +101,15 @@ a:hover, .blog-title:hover {
   margin-bottom:20px;
   color:LightSlateGray;
 }
-.post, .about {
-  margin-bottom:40px;
+.post, .about, .about-margin {
   text-align: left;
   text-justify: none;
   font-size:1rem;
   line-height:30px;
   color:black;
+}
+.about-margin{
+  margin-bottom:40px;
 }
 .post p {
    margin-bottom:20px;margin-top:20px;
