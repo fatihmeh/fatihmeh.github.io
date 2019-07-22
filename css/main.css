@@ -65,6 +65,7 @@ body {
   margin-top:10px; margin-bottom:10px;
   font-size: 1rem;
   list-style-position: inside;
+  list-style-type: circle;
 }
 .ul-project-list a, .ul-blog-list li a {
   color:rgb(42,42,42);
