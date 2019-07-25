@@ -3,11 +3,11 @@ layout: post
 title: Zeki Müren de bizi görecek mi?
 date: 2019-07-03
 lang: TR
-excerpt: Çevrimiçi kimiliğinize nasıl ulaşıldığı ve detayları.
+excerpt: Çevrimiçi hareketlerinizden kimliğinizin nasıl profillendirildiği ve detayları.
 ---
 
 
-*İlk olarak Teknoseyir.com'da yayınlanmıştır.*
+*İlk olarak Teknoseyir.com'da yayınladım.*
 
 
 [https://teknoseyir.com/blog/zeki-muren-de-bizi-gorecek-mi](https://teknoseyir.com/blog/zeki-muren-de-bizi-gorecek-mi)

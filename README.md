@@ -1,4 +1,4 @@
-A site about CAD(Computer aided design) stuff, Solidworks World presentations, 3D printing, models, macros and so on, check the link below for everything.
+A personel site for blog posts and projects about CAD(Computer aided design), 3D printing, parametric modelling, macros, etc., check the link below for everything.
 
 
 https://fatihmeh.github.io

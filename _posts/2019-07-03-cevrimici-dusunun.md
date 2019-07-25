@@ -3,7 +3,7 @@ layout: post
 title: Çevrimiçiyken göze çarpmadığınızı mı düşünüyorsunuz?
 date: 2019-07-03
 lang: TR
-excerpt: Zeynep Tüfekçi ve The New York Times tarafından yayınlanan makalenin, İngilizce'den Türkçe'ye çevirisidir.
+excerpt: Zeynep Tüfekçi tarafından, The New York Times üzerinde yayınlanan makalenin, İngilizce'den Türkçe'ye çevirisidir.
 ---
 
 

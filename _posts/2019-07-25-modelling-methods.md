@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Modelling Methods (CAD)
+title: Modelling Methods
 date: 2019-07-25
 lang: EN
-excerpt: Summary of CAD modelling techniques used in real scenario applications
+excerpt: Summary of CAD modelling techniques used in real scenario applications.
 ---
 
 
