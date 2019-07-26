@@ -7,64 +7,64 @@ excerpt: Summary of CAD modelling techniques used in real scenario applications.
 ---
 
 
-### Parametric CAD Modeling An Analysis of Strategies for Design Reusability
+#### Parametric CAD Modeling An Analysis of Strategies for Design Reusability
 
 
-[/article/pii/S0010448516000051](https://www.sciencedirect.com/science/article/pii/S0010448516000051)
-
-
----
-
-
-### Resilient Modeling Strategy  - Richard Gebhard
-
-
-[/siemensplm/solid-edge-tkb/159/](https://community.plm.automation.siemens.com/siemensplm/attachments/siemensplm/solid-edge-tkb/159/)
-
-
-[/watch?v=QGj3hwtyZxQ](https://www.youtube.com/watch?v=QGj3hwtyZxQ)
+1- [/article/pii/S0010448516000051](https://www.sciencedirect.com/science/article/pii/S0010448516000051)
 
 
 ---
 
 
-### Solid Edge Synchronous Technology
+#### Resilient Modeling Strategy  - Richard Gebhard
 
 
-[Synchronous Technology pdf](https://gitlab.com/testingusername/modelling-methods/raw/master/Solid-Edge-Synchronous-Technology.pdf)
+1- [community.plm.automation.siemens.com/siemensplm/solid-edge-tkb/159/](https://community.plm.automation.siemens.com/siemensplm/attachments/siemensplm/solid-edge-tkb/159/)
 
 
----
-
-
-### Master Modelling
-
-
-[solidworksworld.lanyonevents.com/2017/...](https://solidworksworld.lanyonevents.com/2017/connect/sessionDetail.ww?SESSION_ID=5582)
-
-
-[Master Modelling presentation pdf](https://gitlab.com/testingusername/modelling-methods/raw/master/5582_Kimbrell-5582_Biasotti.pdf)
+2- [youtube.com/watch?v=QGj3hwtyZxQ](https://www.youtube.com/watch?v=QGj3hwtyZxQ)
 
 
 ---
 
 
-### Horizontal Modelling
+#### Solid Edge Synchronous Technology
 
 
-[dezignstuff.com/master-model-part-5-best-practice-and-horizontal-modeling/](https://dezignstuff.com/master-model-part-5-best-practice-and-horizontal-modeling/)
-
-
-[Horizontal Modelling pdf](https://gitlab.com/testingusername/modelling-methods/raw/master/Delphi-Burke.pdf)
+1- [Synchronous Technology pdf](https://gitlab.com/testingusername/modelling-methods/raw/master/Solid-Edge-Synchronous-Technology.pdf)
 
 
 ---
 
 
-### Sketch Skeleton Modelling
+#### Master Modelling
 
 
-[forum.solidworks.com/message/729015#729015](https://forum.solidworks.com/message/729015#729015)
+1- [solidworksworld.lanyonevents.com/2017/...](https://solidworksworld.lanyonevents.com/2017/connect/sessionDetail.ww?SESSION_ID=5582)
 
 
-[Sketch Skeleton Part Modelling pdf](https://gitlab.com/testingusername/modelling-methods/raw/master/The-Skeleton-Sketch-Part-Introduction-6-8-2017.pdf)
+2- [Master Modelling presentation pdf](https://gitlab.com/testingusername/modelling-methods/raw/master/5582_Kimbrell-5582_Biasotti.pdf)
+
+
+---
+
+
+#### Horizontal Modelling
+
+
+1- [dezignstuff.com/master-model-part-5-best-practice-and-horizontal-modeling/](https://dezignstuff.com/master-model-part-5-best-practice-and-horizontal-modeling/)
+
+
+2- [Horizontal Modelling pdf](https://gitlab.com/testingusername/modelling-methods/raw/master/Delphi-Burke.pdf)
+
+
+---
+
+
+#### Sketch Skeleton Modelling
+
+
+1- [forum.solidworks.com/message/729015#729015](https://forum.solidworks.com/message/729015#729015)
+
+
+2- [Sketch Skeleton Part Modelling pdf](https://gitlab.com/testingusername/modelling-methods/raw/master/The-Skeleton-Sketch-Part-Introduction-6-8-2017.pdf)
