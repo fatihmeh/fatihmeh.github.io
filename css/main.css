@@ -21,11 +21,7 @@ time, mark, audio, video {
 
 body {
   font-family: Georgia, serif;
-  background: url(/assets/bg.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background-color: hsla(14, 100%, 53%, 0.1);
 }
 #whole {
     width:40%; margin:auto; margin-top: 30px;
