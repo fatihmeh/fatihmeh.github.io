@@ -24,7 +24,8 @@ body {
   background-color: hsla(14, 100%, 53%, 0.1);
 }
 #whole {
-    width:40%; margin:auto; margin-top: 30px;
+  width:40%; margin:auto; margin-top: 30px; padding:20px;
+  background-color: hsl(66, 80%, 90%); border-radius: 15px;
 }
 #container {
   text-align:left;
