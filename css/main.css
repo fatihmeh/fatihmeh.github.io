@@ -57,9 +57,6 @@ body {
 .nav, .ul-project-list li a, .ul-blog-list a {
   text-decoration: none;
 }
-.about a{
-  font-weight: bold; color:black;
-}
 .ul-project-list a, .ul-blog-list li a {
   color:rgb(42,42,42);
 }
