@@ -23,18 +23,17 @@ body {
   font-family: Georgia, serif;
 }
 #whole {
-  width:40%; margin:auto; margin-top: 30px;
+  width:40%; margin:auto; margin-top:0px; margin-bottom:0px;
   }
 #container {
   text-align:left;
-  margin-bottom:40px;
 }
 
 
 /* top */
 
 #header-div, #footer {
-  text-align:center; margin-bottom: 40px; margin-top:40px;
+  text-align:center; padding-bottom: 40px; padding-top:40px;
 }
 #header-text {
   margin-bottom:20px;
