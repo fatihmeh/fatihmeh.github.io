@@ -54,7 +54,7 @@ body {
 
 /* lists */
 
-.nav, .ul-project-list li a, .about a, .ul-blog-list a {
+.nav, .ul-project-list li a, .ul-blog-list a {
   text-decoration: none;
 }
 .about a{
@@ -67,7 +67,6 @@ body {
   padding-top:6px; padding-bottom:6px;
   font-size: 1rem;
   list-style-position: inside;
-  list-style-type: circle;
 }
 .ul-blog-list{
   list-style-type:none;
