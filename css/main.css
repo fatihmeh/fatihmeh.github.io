@@ -60,17 +60,20 @@ body {
 .about a{
   font-weight: bold; color:black;
 }
+.ul-project-list a, .ul-blog-list li a {
+  color:rgb(42,42,42);
+}
 .ul-project-list li {
-  margin-top:10px; margin-bottom:10px;
+  padding-top:6px; padding-bottom:6px;
   font-size: 1rem;
   list-style-position: inside;
   list-style-type: circle;
 }
-.ul-project-list a, .ul-blog-list li a {
-  color:rgb(42,42,42);
+.ul-blog-list{
+  list-style-type:none;
 }
-.ul-blog-list,  .ul-blog-list li {
-  list-style-type:none; margin-bottom: 40px; margin-top: 40px;
+.ul-blog-list li {
+  padding-top:20px;padding-bottom:20px;
 }
 .blog-title {
   font-size: 1.3rem;

@@ -10,7 +10,7 @@ excerpt: Çevrimiçi hareketlerinizden kimliğinizin nasıl profillendirildiği 
 *İlk olarak Teknoseyir.com'da yayınladım.*
 
 
-[https://teknoseyir.com/blog/zeki-muren-de-bizi-gorecek-mi](https://teknoseyir.com/blog/zeki-muren-de-bizi-gorecek-mi)
+[teknoseyir.com/blog/zeki-muren-de-bizi-gorecek-mi](https://teknoseyir.com/blog/zeki-muren-de-bizi-gorecek-mi)
 
 
 
@@ -31,7 +31,7 @@ Yazdığım her şey kendi fikirlerim çerçevesindedir. Eksik veya yanlış bil
 *Her bir tarayıcının veya cihazın web erişiminde bir kimliği mevcut. PC gibi karmaşık platformlar kullanıcıların kullanım tarzıyla değiştiği için sahip oldukları kimlik de değişiyor. Hepsini maddelemek yerine ⋅⋅⋅ ekran görüntüsü koydum. Javascript çalışır halde olduğu takdirde(kapatmak internette gezememek demek) yüklü font listesine kadar ulaşabilme ihtimali kimlik tanımlamasına karşı durmayı baya zorlaştırıyor.*
 <br>
 <br>
-![](https://teknoseyir.com/wp-content/uploads/2019/05/63b5d4660c75003.png)
+![](/https://teknoseyir.com/wp-content/uploads/2019/05/63b5d4660c75003.png){:class="img-responsive"}
 <br>
 *Figür 1*
 <br>
@@ -49,7 +49,7 @@ Yazdığım her şey kendi fikirlerim çerçevesindedir. Eksik veya yanlış bil
 *Yapay zeka resim çizebillecek konuma geldi ve gerekli bilgiler verildiğinde kişileri eriştiği adresler ve nicesi neticesinde rahatlıkla bulabilir diye tahmin ediyorum. Yapay zeka veya başka bir yöntem olabilir bu.*
 <br>
 <br>
-![](https://teknoseyir.com/wp-content/uploads/2019/05/cba60b01bc99d97.png)
+![](https://teknoseyir.com/wp-content/uploads/2019/05/cba60b01bc99d97.png){:class="img-responsive"}
 <br>
 *Figür 2*(5)
 <br>
@@ -134,34 +134,34 @@ Dünya simulasyonu yapılması mümkün mü acaba bu kadar veriyle?(14). Kişiye
 <br>
 **Kaynakça**
 <br>
-1- [https://panopticlick.eff.org/privacy](https://panopticlick.eff.org/privacy)
+1- [panopticlick.eff.org/privacy](https://panopticlick.eff.org/privacy)
 <br>
-2- [https://panopticlick.eff.org/about](https://panopticlick.eff.org/about)
+2- [panopticlick.eff.org/about](https://panopticlick.eff.org/about)
 <br>
-3- [https://www.privacytools.io/browsers/](https://www.privacytools.io/browsers/)
+3- [privacytools.io/browsers/](https://www.privacytools.io/browsers/)
 <br>
-4- [https://www.eff.org/deeplinks/2009/09/what-information-personally-identifiable](https://www.eff.org/deeplinks/2009/09/what-information-personally-identifiable)
+4- [eff.org/deeplinks/2009/09/what-information-personally-identifiable](https://www.eff.org/deeplinks/2009/09/what-information-personally-identifiable)
 <br>
-5- [https://www.theguardian.com/technology/2018/mar/17/facebook-cambridge-analytica-kogan-data-algorithm](https://www.theguardian.com/technology/2018/mar/17/facebook-cambridge-analytica-kogan-data-algorithm)
+5- [theguardian.com/technology/2018/mar/17/facebook-cambridge-analytica-kogan-data-algorithm](https://www.theguardian.com/technology/2018/mar/17/facebook-cambridge-analytica-kogan-data-algorithm)
 <br>
-6- [https://thatoneprivacysite.net/](https://thatoneprivacysite.net/)
+6- [thatoneprivacysite.net/](https://thatoneprivacysite.net/)
 <br>
-7- [https://protonvpn.com/blog/5-eyes-global-surveillance/](https://protonvpn.com/blog/5-eyes-global-surveillance/)
+7- [protonvpn.com/blog/5-eyes-global-surveillance/](https://protonvpn.com/blog/5-eyes-global-surveillance/)
 <br>
-8- [https://www.privacytools.io/browsers/#addons](https://www.privacytools.io/browsers/#addons)
+8- [www.privacytools.io/browsers/#addons](https://www.privacytools.io/browsers/#addons)
 <br>
-9- [https://www.mozilla.org/tr/firefox/facebookcontainer/](https://www.mozilla.org/tr/firefox/facebookcontainer/)
+9- [mozilla.org/tr/firefox/facebookcontainer/](https://www.mozilla.org/tr/firefox/facebookcontainer/)
 <br>
-10- [https://www.privacytools.io/browsers/#about_config](https://www.privacytools.io/browsers/#about_config)
+10- [privacytools.io/browsers/#about_config](https://www.privacytools.io/browsers/#about_config)
 <br>
-11- [https://bridges.torproject.org/](https://bridges.torproject.org/)
+11- [bridges.torproject.org/](https://bridges.torproject.org/)
 <br>
-12- [https://prism-break.org/tr/all/](https://prism-break.org/tr/all/)
+12- [prism-break.org/tr/all/](https://prism-break.org/tr/all/)
 <br>
-13- [https://www.nytimes.com/2019/04/21/opinion/computational-inference.html](https://www.nytimes.com/2019/04/21/opinion/computational-inference.html)
+13- [nytimes.com/2019/04/21/opinion/computational-inference.html](https://www.nytimes.com/2019/04/21/opinion/computational-inference.html)
 <br>
-14- [https://www.scientificamerican.com/article/are-we-living-in-a-computer-simulation](https://www.scientificamerican.com/article/are-we-living-in-a-computer-simulation)
+14- [scientificamerican.com/article/are-we-living-in-a-computer-simulation](https://www.scientificamerican.com/article/are-we-living-in-a-computer-simulation)
 <br>
-15- [https://www.theguardian.com/news/2019/may/23/what-happened-when-i-met-my-islamophobic-troll](https://www.theguardian.com/news/2019/may/23/what-happened-when-i-met-my-islamophobic-troll)
+15- [theguardian.com/news/2019/may/23/what-happened-when-i-met-my-islamophobic-troll](https://www.theguardian.com/news/2019/may/23/what-happened-when-i-met-my-islamophobic-troll)
 <br>
-16- [https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html?rref=collection%2Fcolumn%2Fzeynep-tufekci](https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html?rref=collection%2Fcolumn%2Fzeynep-tufekci)
+16- [nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html](https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html)
