@@ -31,7 +31,7 @@ Yazdığım her şey kendi fikirlerim çerçevesindedir. Eksik veya yanlış bil
 *Her bir tarayıcının veya cihazın web erişiminde bir kimliği mevcut. PC gibi karmaşık platformlar kullanıcıların kullanım tarzıyla değiştiği için sahip oldukları kimlik de değişiyor. Hepsini maddelemek yerine ⋅⋅⋅ ekran görüntüsü koydum. Javascript çalışır halde olduğu takdirde(kapatmak internette gezememek demek) yüklü font listesine kadar ulaşabilme ihtimali kimlik tanımlamasına karşı durmayı baya zorlaştırıyor.*
 <br>
 <br>
-![](/https://teknoseyir.com/wp-content/uploads/2019/05/63b5d4660c75003.png){:class="img-responsive"}
+![](https://teknoseyir.com/wp-content/uploads/2019/05/63b5d4660c75003.png){:class="img-responsive"}
 <br>
 *Figür 1*
 <br>
@@ -148,7 +148,7 @@ Dünya simulasyonu yapılması mümkün mü acaba bu kadar veriyle?(14). Kişiye
 <br>
 7- [protonvpn.com/blog/5-eyes-global-surveillance/](https://protonvpn.com/blog/5-eyes-global-surveillance/)
 <br>
-8- [www.privacytools.io/browsers/#addons](https://www.privacytools.io/browsers/#addons)
+8- [privacytools.io/browsers/#addons](https://www.privacytools.io/browsers/#addons)
 <br>
 9- [mozilla.org/tr/firefox/facebookcontainer/](https://www.mozilla.org/tr/firefox/facebookcontainer/)
 <br>

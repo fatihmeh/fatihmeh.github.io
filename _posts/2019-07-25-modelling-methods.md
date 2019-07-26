@@ -7,16 +7,16 @@ excerpt: Summary of CAD modelling techniques used in real scenario applications.
 ---
 
 
-##### Parametric CAD Modeling An Analysis of Strategies for Design Reusability
+### Parametric CAD Modeling An Analysis of Strategies for Design Reusability
 
 
 [/article/pii/S0010448516000051](https://www.sciencedirect.com/science/article/pii/S0010448516000051)
 
 
-<hr>
+---
 
 
-##### Resilient Modeling Strategy  - Richard Gebhard
+### Resilient Modeling Strategy  - Richard Gebhard
 
 
 [/siemensplm/solid-edge-tkb/159/](https://community.plm.automation.siemens.com/siemensplm/attachments/siemensplm/solid-edge-tkb/159/)
@@ -25,31 +25,31 @@ excerpt: Summary of CAD modelling techniques used in real scenario applications.
 [/watch?v=QGj3hwtyZxQ](https://www.youtube.com/watch?v=QGj3hwtyZxQ)
 
 
-<hr>
+---
 
 
-##### Solid Edge Synchronous Technology
+### Solid Edge Synchronous Technology
 
 
 [Synchronous Technology pdf](https://gitlab.com/testingusername/modelling-methods/raw/master/Solid-Edge-Synchronous-Technology.pdf)
 
 
-<hr>
+---
 
 
-##### Master Modelling
+### Master Modelling
 
 
-[solidworksworld.lanyonevents.com/2017/connect/sessionDetail.ww?SESSION_ID=5582](https://solidworksworld.lanyonevents.com/2017/connect/sessionDetail.ww?SESSION_ID=5582)
+[solidworksworld.lanyonevents.com/2017/...](https://solidworksworld.lanyonevents.com/2017/connect/sessionDetail.ww?SESSION_ID=5582)
 
 
 [Master Modelling presentation pdf](https://gitlab.com/testingusername/modelling-methods/raw/master/5582_Kimbrell-5582_Biasotti.pdf)
 
 
-<hr>
+---
 
 
-##### Horizontal Modelling
+### Horizontal Modelling
 
 
 [dezignstuff.com/master-model-part-5-best-practice-and-horizontal-modeling/](https://dezignstuff.com/master-model-part-5-best-practice-and-horizontal-modeling/)
@@ -58,10 +58,10 @@ excerpt: Summary of CAD modelling techniques used in real scenario applications.
 [Horizontal Modelling pdf](https://gitlab.com/testingusername/modelling-methods/raw/master/Delphi-Burke.pdf)
 
 
-<hr>
+---
 
 
-##### Sketch Skeleton Modelling
+### Sketch Skeleton Modelling
 
 
 [forum.solidworks.com/message/729015#729015](https://forum.solidworks.com/message/729015#729015)
