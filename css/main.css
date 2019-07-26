@@ -23,10 +23,7 @@ body {
   font-family: Georgia, serif;
 }
 #whole {
-  width:40%; margin:auto; margin-top: 30px; padding:20px;
-  background: rgb(255,255,255);
-  background: linear-gradient(160deg, rgba(255,255,255,0.3981793400954131) 0%, rgba(204,255,204,0.20210090872286413) 70%, rgba(255,128,128,0.4009804605435925) 100%);
-  border-radius: 20px;
+  width:40%; margin:auto; margin-top: 30px;
   }
 #container {
   text-align:left;
