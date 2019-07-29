@@ -60,10 +60,13 @@ body {
 .ul-project-list a, .ul-blog-list li a {
   color:rgb(42,42,42);
 }
-.ul-project-list li {
+.ul-project-list li, .post li {
   padding-top:6px; padding-bottom:6px;
   font-size: 1rem;
   list-style-position: inside;
+}
+.post li{
+  list-style-type: circle;
 }
 .ul-blog-list{
   list-style-type:none;
