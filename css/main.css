@@ -22,11 +22,8 @@ time, mark, audio, video {
 body {
   font-family: Georgia, serif;
 }
-#whole {
-  width:40%; margin:auto; margin-top:0px; margin-bottom:0px;
-  }
 #container {
-  text-align:left;
+  width:40%; margin:auto; margin-top:0px; margin-bottom:0px;  text-align:left;
 }
 
 
@@ -135,7 +132,7 @@ a:hover, .blog-title:hover {
 /* mobile */
 
 @media only screen and (max-width: 1279px) {
-   #whole {
+   #container {
     width: 90%;
   }
   .img-responsive {
