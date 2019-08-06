@@ -103,6 +103,7 @@ a:hover, .blog-title:hover {
   font-size: 1.1rem;
   margin-bottom:20px;
   color:darkred;
+  font-family: "Courier New", Courier, monospace;
 }
 .post, .about, .about-margin {
   text-align: left;
