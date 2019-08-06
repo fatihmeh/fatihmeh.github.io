@@ -133,7 +133,7 @@ a:hover, .blog-title:hover {
 /* mobile */
 
 @media only screen and (max-width: 1279px) {
-   #container {
+   #container, #navdiv {
     width: 90%;
   }
   .img-responsive {
