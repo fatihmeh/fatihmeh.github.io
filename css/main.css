@@ -72,10 +72,10 @@ body {
   list-style-type:none;
 }
 .ul-blog-list li {
-  padding-top:20px;padding-bottom:20px;
+  padding-top:6px;padding-bottom:32px;
 }
 .blog-title {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
 }
 .blog-date {
   font-size: 0.9rem; color:lightslategray; margin-bottom:8px;
@@ -109,7 +109,7 @@ a:hover, .blog-title:hover {
 .post, .about, .about-margin {
   text-align: left;
   text-justify: none;
-  font-size:1.1rem;
+  font-size:1rem;
   line-height:32px;
   color:DarkSlateGray;
 }
