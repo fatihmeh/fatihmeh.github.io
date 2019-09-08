@@ -10,8 +10,7 @@ layout: feed
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://fatihmeh.github.io/blog</id>
 	<author>
-		<name>fatih mehmet ozcan</name>
-		<email>f@fatihte</email>
+		<name>Fatih Mehmet Ozcan</name>
 	</author>
 
 	{% for post in site.posts %}
