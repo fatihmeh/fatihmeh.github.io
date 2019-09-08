@@ -18,9 +18,8 @@ time, mark, audio, video {
 
 
 /* main */
-
 body {
-  font-family: Georgia, serif;
+  font-family: 'Roboto Mono';font-size: 22px;
 }
 #container {
   width:40%; margin:auto; margin-top:0px; margin-bottom:0px;  text-align:left;
@@ -33,15 +32,15 @@ body {
   text-align:center; padding-bottom: 40px; padding-top:40px;
 }
 #header-text {
-  margin-bottom:20px;
-  font-size: 2rem;
+  margin-bottom:15px;
+  font-size: 1.6rem;
   color:DarkSlateGray;
   font-weight: lighter;
 }
 .nav {
   margin-right:8px; margin-left:8px; margin-bottom:5px;
   color:black;
-  font-size: 1.1rem;
+  font-size: 1rem;
 }
 .parag-header{
   font-size: 1.4rem; margin-bottom:30px;
@@ -100,23 +99,26 @@ a:hover, .blog-title:hover {
   color:DarkSlateGray;
 }
 .post-date{
-  font-size: 1.1rem;
+  font-size: 1rem;
   margin-bottom:20px;
+  padding-bottom:10px;
   color:darkred;
   font-family: "Courier New", Courier, monospace;
+  border-bottom:dashed 1px black;
 }
 .post, .about, .about-margin {
   text-align: left;
   text-justify: none;
-  font-size:1rem;
-  line-height:30px;
-  color:black;
+  font-size:1.2rem;
+  line-height:32px;
+  color:DarkSlateGray;
 }
+
 .about-margin{
   margin-bottom:40px;
 }
 .post p {
-   margin-bottom:20px;margin-top:20px;
+   margin-bottom:25px;margin-top:25px;
 }
 
 
