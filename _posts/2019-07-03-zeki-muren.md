@@ -24,7 +24,7 @@ Yazdığım her şey kendi fikirlerim çerçevesindedir. Eksik veya yanlış bil
 
 ### Bizi takip edenlerin izlediği yollar
 
-1- **Fingerprinting** (1)(2)(3)
+1- **Fingerprinting** *(1)(2)(3)*
 
 *Her bir tarayıcının veya cihazın web erişiminde bir kimliği mevcut. PC gibi karmaşık platformlar kullanıcıların kullanım tarzıyla değiştiği için sahip oldukları kimlik de değişiyor. Hepsini maddelemek yerine ⋅⋅⋅ ekran görüntüsü koydum. Javascript çalışır halde olduğu takdirde(kapatmak internette gezememek demek) yüklü font listesine kadar ulaşabilme ihtimali kimlik tanımlamasına karşı durmayı baya zorlaştırıyor.*
 
@@ -37,24 +37,24 @@ Yazdığım her şey kendi fikirlerim çerçevesindedir. Eksik veya yanlış bil
 2- **IP tanımlaması** (İnternete çıkış adresiniz vpn'siz kabak gibi ortada)
 
 
-3- **Webrtc ile bağlı olduğumuz ağ içinde cihazımızın lokal tanımlaması (192.168.1.50 gibi)**
+3- **Webrtc ile bağlı olduğumuz ağ içinde cihazımızın lokal tanımlaması** (192.168.1.50 gibi)
 
 *Kendinize özenle bir alan oluşturmuş olsanız bile lokal ip adresiniz açıkta kalabiliyor doğru uygulamaları kullanmazsanız(Chrome).*
 
 
-4- **Profillendirme (Her tuş basımının takibi, sitelere erişme sıklığı vb.)**(4)
+4- **Profillendirme** (Her tuş basımının takibi, sitelere erişme sıklığı vb.) *(4)*
 
 *Yapay zeka resim çizebillecek konuma geldi ve gerekli bilgiler verildiğinde kişileri eriştiği adresler ve nicesi neticesinde rahatlıkla bulabilir diye tahmin ediyorum. Yapay zeka veya başka bir yöntem olabilir bu.*
 
 ![](https://teknoseyir.com/wp-content/uploads/2019/05/cba60b01bc99d97.png){:class="img-responsive"}
 
-*Figür 2*(5)
+*Figür 2 (5)*
 
 ### Masaüstü platformda gizliliğe ulaşmak için izlediğimiz yollar
 
 1- **Vpn**
 
-*Log tutmayan(6) , kill switch özelliği olan, ortak surveillance ağına ait olmayan (Fourteen Eyes(7)) bir vpn ile tarayıcı kimliğini koruyabildiğiniz durumda işe yarar. Eklentilerle parmak izi göz önünde olan, Webrtc kapatılamayan Dns sızdırmasına sebep olan tarayıcılar(Chrome) veya mobil platformlarda tam yetkinlik sağlamıyor. Örneğin Teknoseyir'e kullanıcı girşi yapmadan Vpn bağlı ve bağlı olmadan girince aynı olan bilgiler karşılaştırılarak hedef bulunabilir.*
+*Log tutmayan *(6)* , kill switch özelliği olan, ortak surveillance ağına ait olmayan (Fourteen Eyes(7)) bir vpn ile tarayıcı kimliğini koruyabildiğiniz durumda işe yarar. Eklentilerle parmak izi göz önünde olan, Webrtc kapatılamayan Dns sızdırmasına sebep olan tarayıcılar(Chrome) veya mobil platformlarda tam yetkinlik sağlamıyor. Örneğin Teknoseyir'e kullanıcı girşi yapmadan Vpn bağlı ve bağlı olmadan girince aynı olan bilgiler karşılaştırılarak hedef bulunabilir.*
 
 
 2- **Sadece tarayıcı tabanlı koruma**
@@ -69,33 +69,33 @@ Yazdığım her şey kendi fikirlerim çerçevesindedir. Eksik veya yanlış bil
 
 2.b- **Eklentiler, engelleyiciler**
 
-*Ublock origin, Noscript, Privacy badger, User-Agent Switcher, CanvasBlocker gibi(8). Ağ kimliği açık olduğu sürece bir noktaya kadar işe yarar.*
+*Ublock origin, Noscript, Privacy badger, User-Agent Switcher, CanvasBlocker gibi *(8)*. Ağ kimliği açık olduğu sürece bir noktaya kadar işe yarar.*
 
 
-2.c- **Site izolasyonu (Firefox containers eklentisi, bazı özel ayarlar gibi.)**(3)(9) 
+2.c- **Site izolasyonu** (Firefox containers eklentisi, bazı özel ayarlar gibi.) *(3)(9)*
 
 
-2.d- **Fingerprint datasına erişimi engellemek veya gerçek bilgileri değiştirmek**(1)(2)
+2.d- **Fingerprint datasına erişimi engellemek veya gerçek bilgileri değiştirmek** *(1)(2)*
 
 *Engellemektense yanlış bilgiler göndermek daha etkili gözüküyor.*
 
 
-2.e- **Javascript kapatmak veya her siteye özel erişimler ayarlamak**(1)(2)
+2.e- **Javascript kapatmak veya her siteye özel erişimler ayarlamak** *(1)(2)*
 
 *Noscript gibi eklentiler ile güvendiğiniz adreslere erişim verebilirsiniz. Bir yerden sonra uğraşmak sıkıyor insanı.*
 
 
-2.f- **Özel ayarlar** (10)
+2.f- **Özel ayarlar** *(10)*
 
 *Firefox tarayıcısının özelleştirilebilir ayarları ile sitelerin erişebildikleri bilgileri kısıtlamak mümkün. Elbette istediği bilgilere erişemeyen siteler buna göre bir profillendirme de yapabilir.*
 
 
 3- **Tor**
 
-*Fingerprint'e izin vermeyen, köprü(ara-bağlantı) kullanarak bağlantı sağlayan ve çoğu platformda olan bir uygulama. Ulaşılan köprülerin yetkili birimlerce oluşturulduğu ve kontrol edildiği durumlar söz konusu illegal olayları takip etmek için.*(11)
+*Fingerprint'e izin vermeyen, köprü(ara-bağlantı) kullanarak bağlantı sağlayan ve çoğu platformda olan bir uygulama. Ulaşılan köprülerin yetkili birimlerce oluşturulduğu ve kontrol edildiği durumlar söz konusu illegal olayları takip etmek için.(11)*
 
 
-4- **Özgür yazılım** (12)
+4- **Özgür yazılım** *(12)*
 
 
 ### Yaygın olarak yaptığımız konfigürasyonlar
@@ -118,10 +118,10 @@ Yazdığım her şey kendi fikirlerim çerçevesindedir. Eksik veya yanlış bil
 
 ### Peki sonra?
 
-Özelleştirilmiş reklamlar ile kişisel ilgilerimizin takip edildiğini biliyoruz. Sosyal medyalarda toplanan bilgi ile sosyal, siyasi tercihlerimize kadar yüksek doğruluk oranına sahip tahminlerde de bulunabildiklerini biliyoruz. Kendimiz hakkında yapamayacağımız yorumlar yapmaları da söz konusu(13). Bizi imite edecek çoğu bilgiye sahipler aslında.
+Özelleştirilmiş reklamlar ile kişisel ilgilerimizin takip edildiğini biliyoruz. Sosyal medyalarda toplanan bilgi ile sosyal, siyasi tercihlerimize kadar yüksek doğruluk oranına sahip tahminlerde de bulunabildiklerini biliyoruz. Kendimiz hakkında yapamayacağımız yorumlar yapmaları da söz konusu *(13)*. Bizi imite edecek çoğu bilgiye sahipler aslında.
 
 
-Dünya simulasyonu yapılması mümkün mü acaba bu kadar veriyle?(14). Kişiye özel haberleri ne zaman görmeye başlarız? Bizi yönlendirmeye başladılar mı?(15)(16)
+Dünya simulasyonu yapılması mümkün mü acaba bu kadar veriyle?(14). Kişiye özel haberleri ne zaman görmeye başlarız? Bizi yönlendirmeye başladılar mı? *(15)(16)*
 
 
 
@@ -130,48 +130,32 @@ Dünya simulasyonu yapılması mümkün mü acaba bu kadar veriyle?(14). Kişiye
 
 1- [panopticlick.eff.org/privacy](https://panopticlick.eff.org/privacy)
 
-
 2- [panopticlick.eff.org/about](https://panopticlick.eff.org/about)
-
 
 3- [privacytools.io/browsers/](https://www.privacytools.io/browsers/)
 
-
 4- [eff.org/deeplinks/2009/09/what-information-personally-identifiable](https://www.eff.org/deeplinks/2009/09/what-information-personally-identifiable)
-
 
 5- [theguardian.com/technology/2018/mar/17/facebook-cambridge-analytica-kogan-data-algorithm](https://www.theguardian.com/technology/2018/mar/17/facebook-cambridge-analytica-kogan-data-algorithm)
 
-
 6- [thatoneprivacysite.net/](https://thatoneprivacysite.net/)
-
 
 7- [protonvpn.com/blog/5-eyes-global-surveillance/](https://protonvpn.com/blog/5-eyes-global-surveillance/)
 
-
 8- [privacytools.io/browsers/#addons](https://www.privacytools.io/browsers/#addons)
-
 
 9- [mozilla.org/tr/firefox/facebookcontainer/](https://www.mozilla.org/tr/firefox/facebookcontainer/)
 
-
 10- [privacytools.io/browsers/#about_config](https://www.privacytools.io/browsers/#about_config)
-
 
 11- [bridges.torproject.org/](https://bridges.torproject.org/)
 
-
 12- [prism-break.org/tr/all/](https://prism-break.org/tr/all/)
-
 
 13- [nytimes.com/2019/04/21/opinion/computational-inference.html](https://www.nytimes.com/2019/04/21/opinion/computational-inference.html)
 
-
 14- [scientificamerican.com/article/are-we-living-in-a-computer-simulation](https://www.scientificamerican.com/article/are-we-living-in-a-computer-simulation)
-
 
 15- [theguardian.com/news/2019/may/23/what-happened-when-i-met-my-islamophobic-troll](https://www.theguardian.com/news/2019/may/23/what-happened-when-i-met-my-islamophobic-troll)
 
-
 16- [nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html](https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html)
-
