@@ -86,7 +86,7 @@ body {
   color: fff; margin-top:8px; font-size:1rem;
 }
 .info-text{
-  color:darkred; font-family: "Courier New", Courier, monospace;
+  color:greenyellow; font-family: "Courier New", Courier, monospace;
 }
 a:hover, .blog-title:hover {
   color:chocolate;
@@ -104,9 +104,9 @@ a:hover, .blog-title:hover {
   font-size: 1rem;
   margin-bottom:20px;
   padding-bottom:10px;
-  color:darkred;
+  color:greenyellow;
   font-family: "Courier New", Courier, monospace;
-  border-bottom:dashed 1px black;
+  border-bottom:dashed 1px gray;
 }
 .post, .about, .about-margin {
   text-align: left;
@@ -134,7 +134,7 @@ a:hover, .blog-title:hover {
   -webkit-filter: invert(0%);filter: invert(0%);
 }
 
-@media only screen and (max-width: 845px) {
+@media only screen and (max-width: 900px) {
    #container, #navdiv {
     width: 90%;
   }
