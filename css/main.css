@@ -19,7 +19,7 @@ time, mark, audio, video {
 
 /* main */
 body {
-  font-family: 'Roboto Mono';
+  font-family: "Courier New", Courier, monospace;
   color: #fff;
   background: #000;
 }
@@ -48,7 +48,7 @@ p a {
 }
 .parag-header{
   font-size: 1.4rem; margin-bottom:30px;
-  color:fff;
+  color:#fff;
 }
 #navdiv {
   width:40%;  margin:auto;
@@ -71,6 +71,9 @@ p a {
 .post li{
   list-style-type: circle;
   list-style-position: inside;
+}
+.post a, .about a {
+  color:lightsteelblue;
 }
 .ul-blog-list{
   list-style-type:none;

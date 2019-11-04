@@ -24,7 +24,7 @@ Yazdığım her şey kendi fikirlerim çerçevesindedir. Eksik veya yanlış bil
 
 ### Bizi takip edenlerin izlediği yollar
 
-1- <ins>Fingerprinting</ins> (1)(2)(3)
+1- **Fingerprinting** (1)(2)(3)
 
 *Her bir tarayıcının veya cihazın web erişiminde bir kimliği mevcut. PC gibi karmaşık platformlar kullanıcıların kullanım tarzıyla değiştiği için sahip oldukları kimlik de değişiyor. Hepsini maddelemek yerine ⋅⋅⋅ ekran görüntüsü koydum. Javascript çalışır halde olduğu takdirde(kapatmak internette gezememek demek) yüklü font listesine kadar ulaşabilme ihtimali kimlik tanımlamasına karşı durmayı baya zorlaştırıyor.*
 
@@ -34,15 +34,15 @@ Yazdığım her şey kendi fikirlerim çerçevesindedir. Eksik veya yanlış bil
 *Figür 1*
 
 
-2- <ins>IP tanımlaması</ins> (İnternete çıkış adresiniz vpn'siz kabak gibi ortada)
+2- **IP tanımlaması** (İnternete çıkış adresiniz vpn'siz kabak gibi ortada)
 
 
-3- <ins>Webrtc ile bağlı olduğumuz ağ içinde cihazımızın lokal tanımlaması (192.168.1.50 gibi)</ins>
+3- **Webrtc ile bağlı olduğumuz ağ içinde cihazımızın lokal tanımlaması (192.168.1.50 gibi)**
 
 *Kendinize özenle bir alan oluşturmuş olsanız bile lokal ip adresiniz açıkta kalabiliyor doğru uygulamaları kullanmazsanız(Chrome).*
 
 
-4- <ins>Profillendirme (Her tuş basımının takibi, sitelere erişme sıklığı vb.)</ins>(4)
+4- **Profillendirme (Her tuş basımının takibi, sitelere erişme sıklığı vb.)**(4)
 
 *Yapay zeka resim çizebillecek konuma geldi ve gerekli bilgiler verildiğinde kişileri eriştiği adresler ve nicesi neticesinde rahatlıkla bulabilir diye tahmin ediyorum. Yapay zeka veya başka bir yöntem olabilir bu.*
 
@@ -52,65 +52,65 @@ Yazdığım her şey kendi fikirlerim çerçevesindedir. Eksik veya yanlış bil
 
 ### Masaüstü platformda gizliliğe ulaşmak için izlediğimiz yollar
 
-1- <ins>Vpn</ins>
+1- **Vpn**
 
 *Log tutmayan(6) , kill switch özelliği olan, ortak surveillance ağına ait olmayan (Fourteen Eyes(7)) bir vpn ile tarayıcı kimliğini koruyabildiğiniz durumda işe yarar. Eklentilerle parmak izi göz önünde olan, Webrtc kapatılamayan Dns sızdırmasına sebep olan tarayıcılar(Chrome) veya mobil platformlarda tam yetkinlik sağlamıyor. Örneğin Teknoseyir'e kullanıcı girşi yapmadan Vpn bağlı ve bağlı olmadan girince aynı olan bilgiler karşılaştırılarak hedef bulunabilir.*
 
 
-2- <ins>Sadece tarayıcı tabanlı koruma</ins>
+2- **Sadece tarayıcı tabanlı koruma**
 
 *Ağ kimiliğinizi saklamadığınız müddetçe kısıtlı miktarda işe yarar. Data toplayan şirketlerin özel hedefleri var mı yok mu bilmediğimiz için veri yığınları arasında ne kadar önem arz ettiğiniz bir soru işareti. Çoğunluğun kanıksadığı bir durum olsaydı gizlilk bu yöntem daha çok öneme sahip olurdu ve işe yarardı.*
 
 
-2.a- <ins>Do not track</ins>
+2.a- **Do not track**
 
 *Bazı siteler tarayıcıdan giden "beni takip etme" isteğini görüyor ve ona göre davranıyor. Fakat bu anlayış pek yaygın değil ve korunmaktan çok göze batan bir hareket olduğu için tercih edilmiyor.*
 
 
-2.b- <ins>Eklentiler, engelleyiciler</ins>
+2.b- **Eklentiler, engelleyiciler**
 
 *Ublock origin, Noscript, Privacy badger, User-Agent Switcher, CanvasBlocker gibi(8). Ağ kimliği açık olduğu sürece bir noktaya kadar işe yarar.*
 
 
-2.c- <ins>Site izolasyonu (Firefox containers eklentisi, bazı özel ayarlar gibi.)</ins>(3)(9) 
+2.c- **Site izolasyonu (Firefox containers eklentisi, bazı özel ayarlar gibi.)**(3)(9) 
 
 
-2.d- <ins>Fingerprint datasına erişimi engellemek veya gerçek bilgileri değiştirmek</ins>(1)(2)
+2.d- **Fingerprint datasına erişimi engellemek veya gerçek bilgileri değiştirmek**(1)(2)
 
 *Engellemektense yanlış bilgiler göndermek daha etkili gözüküyor.*
 
 
-2.e- <ins>Javascript kapatmak veya her siteye özel erişimler ayarlamak</ins>(1)(2)
+2.e- **Javascript kapatmak veya her siteye özel erişimler ayarlamak**(1)(2)
 
 *Noscript gibi eklentiler ile güvendiğiniz adreslere erişim verebilirsiniz. Bir yerden sonra uğraşmak sıkıyor insanı.*
 
 
-2.f- <ins>Özel ayarlar</ins> (10)
+2.f- **Özel ayarlar** (10)
 
 *Firefox tarayıcısının özelleştirilebilir ayarları ile sitelerin erişebildikleri bilgileri kısıtlamak mümkün. Elbette istediği bilgilere erişemeyen siteler buna göre bir profillendirme de yapabilir.*
 
 
-3- <ins>Tor</ins>
+3- **Tor**
 
 *Fingerprint'e izin vermeyen, köprü(ara-bağlantı) kullanarak bağlantı sağlayan ve çoğu platformda olan bir uygulama. Ulaşılan köprülerin yetkili birimlerce oluşturulduğu ve kontrol edildiği durumlar söz konusu illegal olayları takip etmek için.*(11)
 
 
-4- <ins>Özgür yazılım</ins> (12)
+4- **Özgür yazılım** (12)
 
 
 ### Yaygın olarak yaptığımız konfigürasyonlar
 
-1- <ins>Vpn kulanmadan tarayıcı ile her türlü bilgiyi korumaya çalışmak</ins>
+1- **Vpn kulanmadan tarayıcı ile her türlü bilgiyi korumaya çalışmak**
 
 *Data yığınları arasına girmemiş oluyorsunuz belki ama IP adresiniz görünür kalıyor.*
 
 
-2- <ins>Vpn ile bağlantı sağlayarak fakat özelleştirilmiş tarayıcı kullanmak</ins>
+2- **Vpn ile bağlantı sağlayarak fakat özelleştirilmiş tarayıcı kullanmak**
 
 *Servis sağlayıcılardan gizlenmek için ideal.*
 
 
-3- <ins>Tor</ins>
+3- **Tor**
 
 *Gizlilik açısından en garanti bağlantı tipi olarak gösteriliyor fakat çok yavaş hızlar sunuyor.*
 
