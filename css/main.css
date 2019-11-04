@@ -26,7 +26,9 @@ body {
 #container {
   width:40%; margin:auto; margin-top:0px; margin-bottom:0px;  text-align:left;
 }
-
+p a {
+  color:darkslategray;
+}
 
 /* top */
 
@@ -36,7 +38,7 @@ body {
 #header-text {
   margin-bottom:15px;
   font-size: 1.6rem;
-  color:fff;
+  color:#fff;
   font-weight: lighter;
 }
 .nav {
@@ -50,16 +52,13 @@ body {
 }
 #navdiv {
   width:40%;  margin:auto;
-  padding-top:0px; padding-bottom: 15px; border-bottom: 10px solid honeydew;
+  padding-top:0px; padding-bottom: 15px; border-bottom: 8px solid azure;
 }
 
 /* lists */
 
-.nav, .ul-project-list li a {
+.nav, .ul-project-list li a, .ul-blog-list a {
   text-decoration: none;
-}
-.ul-blog-list a {
-  text-decoration: underline;
 }
 .ul-project-list a, .ul-blog-list li a {
   /* color:rgb(42,42,42); */   color: #fff;
@@ -86,7 +85,7 @@ body {
   font-size: 0.9rem; color:red; margin-bottom:8px;
 }
 .blog-excerpt {
-  color: fff; margin-top:8px; font-size:0.9rem;
+  color: gray; margin-top:8px; font-size:0.9rem;
 }
 .info-text{
   color:red; font-family: "Courier New", Courier, monospace;
@@ -137,7 +136,7 @@ a:hover, .blog-title:hover {
   -webkit-filter: invert(0%);filter: invert(0%);
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1080px) {
    #container, #navdiv {
     width: 90%;
   }
