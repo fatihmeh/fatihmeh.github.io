@@ -65,7 +65,7 @@ p a {
 }
 .ul-project-list li {
   padding-top:6px; padding-bottom:6px;
-  font-size: 1rem;
+  font-size: 1.1rem;
   list-style-position: inside;
 }
 .post li{
@@ -116,7 +116,7 @@ a:hover, .blog-title:hover {
 .post, .about, .about-margin {
   text-align: left;
   text-justify: none;
-  font-size:1rem;
+  font-size:1.1rem;
   line-height:32px;
   color:fff;
 }
