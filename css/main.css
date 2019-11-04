@@ -20,6 +20,8 @@ time, mark, audio, video {
 /* main */
 body {
   font-family: 'Roboto Mono';
+  color: #fff;
+  background: #000;
 }
 #container {
   width:40%; margin:auto; margin-top:0px; margin-bottom:0px;  text-align:left;
@@ -34,21 +36,21 @@ body {
 #header-text {
   margin-bottom:15px;
   font-size: 1.6rem;
-  color:DarkSlateGray;
+  color:fff;
   font-weight: lighter;
 }
 .nav {
   margin-right:8px; margin-left:8px; margin-bottom:5px;
-  color:black;
+  /* color:black; */ color: #fff;
   font-size: 1rem;
 }
 .parag-header{
   font-size: 1.4rem; margin-bottom:30px;
-  color:DarkSlateGray;
+  color:fff;
 }
 #navdiv {
   width:40%;  margin:auto;
-  padding-top:0px; padding-bottom: 15px; border-bottom: 10px solid lightgray;
+  padding-top:0px; padding-bottom: 15px; border-bottom: 10px solid gray;
 }
 
 /* lists */
@@ -57,7 +59,7 @@ body {
   text-decoration: none;
 }
 .ul-project-list a, .ul-blog-list li a {
-  color:rgb(42,42,42);
+  /* color:rgb(42,42,42); */   color: #fff;
 }
 .ul-project-list li {
   padding-top:6px; padding-bottom:6px;
@@ -78,10 +80,10 @@ body {
   font-size: 1.2rem;
 }
 .blog-date {
-  font-size: 0.9rem; color:lightslategray; margin-bottom:8px;
+  font-size: 0.9rem; color:fff; margin-bottom:8px;
 }
 .blog-excerpt {
-  color: lightslategray; margin-top:8px; font-size:1rem;
+  color: fff; margin-top:8px; font-size:1rem;
 }
 .info-text{
   color:darkred; font-family: "Courier New", Courier, monospace;
@@ -96,7 +98,7 @@ a:hover, .blog-title:hover {
 .post-title {
   font-size: 1.4rem;
   margin-bottom:10px;
-  color:DarkSlateGray;
+  color:fff;
 }
 .post-date{
   font-size: 1rem;
@@ -111,7 +113,7 @@ a:hover, .blog-title:hover {
   text-justify: none;
   font-size:1rem;
   line-height:32px;
-  color:DarkSlateGray;
+  color:fff;
 }
 
 .about-margin{
@@ -140,4 +142,3 @@ a:hover, .blog-title:hover {
     width: 100%; height: auto;
   }
 }
-@media (prefers-dark-interface) { color: white; background: black }
