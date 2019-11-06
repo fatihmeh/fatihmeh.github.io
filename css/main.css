@@ -88,7 +88,7 @@ p a {
   font-size: 0.9rem; color:red; margin-bottom:8px;
 }
 .blog-excerpt {
-  color: gray; margin-top:8px; font-size:0.9rem;
+  color: gray; margin-top:8px; font-size:1rem;
 }
 .info-text{
   color:red; font-family: "Courier New", Courier, monospace;
