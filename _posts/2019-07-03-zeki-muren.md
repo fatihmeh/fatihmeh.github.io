@@ -22,6 +22,9 @@ Online gizliliğimizi korumak adına yapmaya çalıştığımız şeylerin ne ka
 Yazdığım her şey kendi fikirlerim çerçevesindedir. Eksik veya yanlış bilgi varsa düzeltmekten çekinmeyin lütfen.
 
 
+<hr>
+
+
 ### Bizi takip edenlerin izlediği yollar
 
 1- **Fingerprinting** *(1)(2)(3)*
@@ -49,6 +52,10 @@ Yazdığım her şey kendi fikirlerim çerçevesindedir. Eksik veya yanlış bil
 ![](https://teknoseyir.com/wp-content/uploads/2019/05/cba60b01bc99d97.png){:class="img-responsive"}
 
 *Figür 2 (5)*
+
+
+<hr>
+
 
 ### Masaüstü platformda gizliliğe ulaşmak için izlediğimiz yollar
 
@@ -89,6 +96,9 @@ Yazdığım her şey kendi fikirlerim çerçevesindedir. Eksik veya yanlış bil
 
 *Firefox tarayıcısının özelleştirilebilir ayarları ile sitelerin erişebildikleri bilgileri kısıtlamak mümkün. Elbette istediği bilgilere erişemeyen siteler buna göre bir profillendirme de yapabilir.*
 
+2.g- **Obfuscation** *(17)(18)*
+
+*Online ortama aktardığımız verilerimizi karşı tarafın kullanamaması için gerçek dışı tıklamalar ile şaşırtma yöntemidir. Sadece aramalarda veya reklam tıklamlarında değil, cloud olarak yüklenilen her türlü trafik için yapılması ile ideal bir yöntem olabilir.*
 
 3- **Tor**
 
@@ -98,11 +108,14 @@ Yazdığım her şey kendi fikirlerim çerçevesindedir. Eksik veya yanlış bil
 4- **Özgür yazılım** *(12)*
 
 
+<hr>
+
+
 ### Yaygın olarak yaptığımız konfigürasyonlar
 
-1- **Vpn kulanmadan tarayıcı ile her türlü bilgiyi korumaya çalışmak**
+1- **Vpn kulanmadan tarayıcı ile her türlü bilgiyi korumaya çalışmak veya obfuscation**
 
-*Data yığınları arasına girmemiş oluyorsunuz belki ama IP adresiniz görünür kalıyor.*
+*Data yığınları arasına girmemiş oluyorsunuz belki ama IP adresiniz görünür kalıyor. Şaşırtma(obfuscation) yöntemi ile toplanılan bilgilerin kullanılamaz hale getirilmesi işe yarayabilir.*
 
 
 2- **Vpn ile bağlantı sağlayarak fakat özelleştirilmiş tarayıcı kullanmak**
@@ -115,15 +128,18 @@ Yazdığım her şey kendi fikirlerim çerçevesindedir. Eksik veya yanlış bil
 *Gizlilik açısından en garanti bağlantı tipi olarak gösteriliyor fakat çok yavaş hızlar sunuyor.*
 
 
+<hr>
+
 
 ### Peki sonra?
 
 Özelleştirilmiş reklamlar ile kişisel ilgilerimizin takip edildiğini biliyoruz. Sosyal medyalarda toplanan bilgi ile sosyal, siyasi tercihlerimize kadar yüksek doğruluk oranına sahip tahminlerde de bulunabildiklerini biliyoruz. Kendimiz hakkında yapamayacağımız yorumlar yapmaları da söz konusu *(13)*. Bizi imite edecek çoğu bilgiye sahipler aslında.
 
 
-Dünya simulasyonu yapılması mümkün mü acaba bu kadar veriyle?(14). Kişiye özel haberleri ne zaman görmeye başlarız? Bizi yönlendirmeye başladılar mı? *(15)(16)*
+Dünya simulasyonu yapılması mümkün mü acaba bu kadar veriyle? *(14)*. Kişiye özel haberleri ne zaman görmeye başlarız? Bizi yönlendirmeye başladılar mı? *(15)(16)*
 
 
+<hr>
 
 
 **Kaynakça**
@@ -159,3 +175,7 @@ Dünya simulasyonu yapılması mümkün mü acaba bu kadar veriyle?(14). Kişiye
 15- [theguardian.com/news/2019/may/23/what-happened-when-i-met-my-islamophobic-troll](https://www.theguardian.com/news/2019/may/23/what-happened-when-i-met-my-islamophobic-troll)
 
 16- [nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html](https://www.nytimes.com/2018/03/10/opinion/sunday/youtube-politics-radical.html)
+
+17- [https://adnauseam.io/](https://adnauseam.io/)
+
+18- [http://trackmenot.io/resources/trackmenot2009.pdf](http://trackmenot.io/resources/trackmenot2009.pdf)
