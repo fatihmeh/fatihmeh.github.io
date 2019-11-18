@@ -133,10 +133,10 @@ a:hover, .blog-title:hover {
 
 .footer-links{
   margin-right:5px;margin-left:5px; display:inline-block;
-  -webkit-filter: invert(50%);filter: invert(50%);
+  filter: invert(50%);
 }
 .footer-links:hover {
-  -webkit-filter: invert(0%);filter: invert(0%);
+  filter: invert(100%);
 }
 
 @media only screen and (max-width: 1080px) {
