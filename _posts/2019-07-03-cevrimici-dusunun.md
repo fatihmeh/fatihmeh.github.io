@@ -7,7 +7,7 @@ excerpt: Zeynep Tüfekçi tarafından, The New York Times üzerinde yayınlanan 
 ---
 
 
-Bu yazı bir direk çeviridir. İlk olarak Zeynep Tüfekçi tarafından 29 Nisan 2019 tarihinde [The New York Times](https://www.nytimes.com/2019/04/21/opinion/computational-inference.html) üzerinde yayınlandı.
+Bu yazı bir direkt çeviridir. İlk olarak Zeynep Tüfekçi tarafından 29 Nisan 2019 tarihinde [The New York Times](https://www.nytimes.com/2019/04/21/opinion/computational-inference.html) üzerinde yayınlandı.
 
 
 This text is a direct translation to Turkish. If you have any inquiries, please contact me via mail button at bottom of this page.
