@@ -7,15 +7,6 @@ excerpt: Çevrimiçi hareketlerinizden kimliğinizin nasıl profillendirildiği 
 ---
 
 
-*İlk olarak Teknoseyir.com'da yayınladım.*
-
-
-[teknoseyir.com/blog/zeki-muren-de-bizi-gorecek-mi](https://teknoseyir.com/blog/zeki-muren-de-bizi-gorecek-mi)
-
-
-<hr>
-
-
 Online gizliliğimizi korumak adına yapmaya çalıştığımız şeylerin ne kadarı etkili olduğu hakkında bir yazı hazırladım. Çoğunlukla web odaklı konulardan bahsediyorum ve geliştirici olmadığım için bu yapıları entegre etmenin olumlu-olumsuz değerlendirmesini yapamıyorum. Burada maliyet, performans, güvenlik gibi birçok faktör işin içinde, tez yazılabilecek mevzular bunlar. Bir noktaya kadar insanlar kendilerinden alınan bilgiler için hassas davranabiliyorlar. Fakat göz göre göre yapılmıyorsa ardından giden olmayacaktır.
 
 
