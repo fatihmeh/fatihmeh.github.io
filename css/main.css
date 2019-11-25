@@ -52,7 +52,7 @@ p a {
 }
 #navdiv {
   width:40%;  margin:auto;
-  padding-top:0px; padding-bottom: 15px; border-bottom: 8px solid azure;
+  padding-top:0px; padding-bottom: 15px; border-bottom: 8px solid #fff;
 }
 
 /* lists */
@@ -144,6 +144,6 @@ a:hover, .blog-title:hover {
     width: 90%;
   }
   .img-responsive {
-    width: 100%; height: auto;
+    width: 90%; height: auto;
   }
 }
