@@ -52,7 +52,7 @@ Yazdığım her şey kendi fikirlerim çerçevesindedir. Eksik veya yanlış bil
 
 1- **Vpn**
 
-*Log tutmayan *(6)* , kill switch özelliği olan, ortak surveillance ağına ait olmayan (Fourteen Eyes(7)) bir vpn ile tarayıcı kimliğini koruyabildiğiniz durumda işe yarar. Eklentilerle parmak izi göz önünde olan, Webrtc kapatılamayan Dns sızdırmasına sebep olan tarayıcılar(Chrome) veya mobil platformlarda tam yetkinlik sağlamıyor. Örneğin Teknoseyir'e kullanıcı girşi yapmadan Vpn bağlı ve bağlı olmadan girince aynı olan bilgiler karşılaştırılarak hedef bulunabilir.*
+*Log tutmayan (6), kill switch özelliği olan, ortak surveillance ağına ait olmayan (Fourteen Eyes*(7)*) bir vpn ile tarayıcı kimliğini koruyabildiğiniz durumda işe yarar. Eklentilerle parmak izi göz önünde olan, Webrtc kapatılamayan Dns sızdırmasına sebep olan tarayıcılar(Chrome) veya mobil platformlarda tam yetkinlik sağlamıyor. Örneğin bir siteye kullanıcı girşi yapmadan, Vpn bağlı ve bağlı olmadan girince aynı olan bilgiler karşılaştırılarak hedef bulunabilir.*
 
 
 2- **Sadece tarayıcı tabanlı koruma**
