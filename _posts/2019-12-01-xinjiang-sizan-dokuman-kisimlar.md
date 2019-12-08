@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Çin tarafından Xinjiang bölgesinde kurulan beyin yıkama kampları hakkında sızan döküman ve bilgiler üzerine 5 ana çıkarım
+title: Çin, Xinjiang bölgesinde kurulan kamplar hakkında sızan bilgiler üzerine 5 ana madde
 date: 2019-12-01
 lang: TR
-excerpt: Xinjiang bölgesinde çoğunlukla Uygur müslümanlarının alıkoyuldukları 'eğitim' kampları hakkında sızan resmi yazışmalardan çıkarılacak 5 ana madde
+excerpt: Xinjiang bölgesinde çoğunlukla Uygur müslümanlarının alıkoyuldukları 'eğitim' kampları hakkında sızan resmi yazışmalardan çıkarım 5 önemli madde
 ---
 
 
