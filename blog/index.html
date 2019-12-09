@@ -6,7 +6,7 @@ title: Blog - Fatih Mehmet Ozcan
 	<ul class="ul-blog-list">
 	  {% for post in site.posts %}
 		<li>
-		<p class="blog-date"><span class="info-text">{{ post.date | date_to_string }} - {{ page.lang }}</span></p>
+		<p class="blog-date"><span class="info-text">{{ post.date | date_to_string }} - {{ post.lang }}</span></p>
 		<a class="blog-title" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 		<p class="blog-excerpt">{{ post.excerpt }}</p>
 		</li>
