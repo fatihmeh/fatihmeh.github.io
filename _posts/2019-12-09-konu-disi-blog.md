@@ -5,4 +5,4 @@ date: 2019-12-09
 lang: TR
 excerpt: Deneme, çeviri ve diğer gönderileri Medium.com üzerinde yayınlayacağım
 ---
-Bugüne kadar olan gönderileri silmeden, yeni gönderilere profil linkimden [https://medium.com/@fatihmehmetozcan]((https://medium.com/@fatihmehmetozcan)) ulaşılabilir.
+Bugüne kadar olan gönderileri silmeden, yeni gönderilere profil linkimden ulaşılabilir: [https://medium.com/@fatihmehmetozcan](https://medium.com/@fatihmehmetozcan)
