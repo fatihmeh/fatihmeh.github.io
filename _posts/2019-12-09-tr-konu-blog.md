@@ -15,3 +15,5 @@ Bu geçişin amacı, link koyunca tıklamaktan, paylaşmaktan insanların çekin
 
 
 Reason of this change is looking for a platform that provides discoverability and for people to be comfortable and not hesitant when to access and share the content.
+
+[https://medium.com/@fatihmehmetozcan](https://medium.com/@fatihmehmetozcan)
