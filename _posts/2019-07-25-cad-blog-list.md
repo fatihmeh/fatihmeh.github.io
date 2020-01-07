@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Blog list
+title: CAD Blog list
 date: 2019-07-25
 lang: EN
-excerpt: Corporate and personal blog sites about parametric design, manufacturing, additive manufacturing, etc.
+excerpt: Personal and corporate blog sites about parametric design, manufacturing, additive manufacturing, etc.
 ---
 
 
