@@ -21,7 +21,7 @@ time, mark, audio, video {
 body {
   font-family: "Courier New", Courier, monospace;
   color: #fff;
-  background: #040707;
+  background: #333;
 }
 #container {
   width:40%; margin:auto; margin-top:0px; margin-bottom:0px;  text-align:left;
