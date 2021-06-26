@@ -48,7 +48,7 @@ body {
    --color-card: #333;
 }
 #container {
-  width:50%; margin:auto; margin-top:0px; margin-bottom:0px;  text-align:left;
+  width:60%; margin:auto; margin-top:0px; margin-bottom:0px;  text-align:left;
 }
 p a {
   color: var(--color-pa); word-wrap: break-word;
@@ -194,23 +194,6 @@ a:hover, .blog-title:hover{
       display: block;
 }
 
-/* adaptive */
-@media only screen and (max-width: 1080px) {
-   #container {
-    width: 90%;
-  }
-  #btnContainer, .row{
-    display: none;
-  }
-  .projects-list{
-    display:block;
-  }
-}
-@media only screen and (min-width: 1080px) {
-  .projects-list{
-    display:none;
-  }
-}
 
 /* theme toogle switch */
 .switch {
@@ -344,4 +327,23 @@ opacity: 100%;
   font-size: 1.1rem;
   border: 1px solid var(--color-primary);
   border-radius: 3px;
+}
+
+/* adaptive */
+@media only screen and (max-width: 1023px) {
+  #container {
+   width: 90%;
+ }
+ #btnContainer, .row{
+   display: none;
+ }
+   .projects-list{
+   display:block;
+ }
+}
+
+@media only screen and (min-width: 1024px) {
+ .projects-list{
+   display:none;
+ }
 }
