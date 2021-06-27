@@ -336,14 +336,25 @@ opacity: 100%;
  }
  #btnContainer, .row{
    display: none;
+   text-align: left;
  }
    .projects-list{
    display:block;
  }
 }
-
-@media only screen and (min-width: 1024px) {
+@media only screen and (min-width: 1024px) and (max-width: 1439px) {
  .projects-list{
    display:none;
  }
+ #container {
+  width: 760px;
 }
+}
+@media only screen and (min-width: 1440px) {
+  .projects-list{
+    display:none;
+  }
+  #container {
+   width: 950px;
+ }
+ }
