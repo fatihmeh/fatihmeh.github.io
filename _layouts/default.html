@@ -1,0 +1,155 @@
+---
+# default
+---
+
+<!DOCTYPE html>
+<html lang="en" class="theme-light">
+
+<head>
+  <meta property="og:image" content="https://fatihmeh.github.io/assets/tb.png">
+  <meta name="description" property="og:description" content="Fatih Mehmet Özcan's Personal Site">
+  <meta name="author" content="Fatih Mehmet Özcan">
+  <meta name="title" property="og:title" content="Fatih Mehmet Özcan">
+  <meta property="og:type" content="Personal Site">
+
+
+  <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="/css/main.css">
+  <link rel="apple-touch-icon" sizes="180x180" href="/icon-main/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/icon-main/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/icon-main/favicon-16x16.png">
+  <link rel="manifest" href="/icon-main/site.webmanifest">
+  <link rel="mask-icon" href="/icon-main/safari-pinned-tab.svg" color="#000000">
+  <link rel="shortcut icon" href="/icon-main/favicon.ico">
+  <title>{{ page.title }}</title>
+  <style></style>
+</head>
+
+<body>
+
+  <div id="header-div">
+    <p id="header-text">Fatih Mehmet Özcan</p>
+    <div id="navdiv"><a class="nav" href="/">About</a>
+      <a class="nav" href="/projects">Projects</a>
+      <a class="nav" href="/blog">Blog</a>
+      <a class="nav" href="/notes">Notes</a>
+      <label id="switch" class="switch">
+        <input type="checkbox" onchange="toggleTheme()" id="slider" checked>
+        <span class="slider round"></span>
+      </label>
+    </div>
+  </div>
+
+  <div id="container">
+    {{ content }}
+  </div>
+
+  <div id="footer">
+    <a class="footer-links" href="https://github.com/fatihmeh" target="_blank"><img height="24" width="24"
+        src="/assets/github.svg"/></a>
+    <a class="footer-links" href="https://gitlab.com/users/fatihmehmetozcan" target="_blank"><img height="24"
+        width="24" src="/assets/gitlab.svg"/></a>
+    <!-- <a class="footer-links" href="https://medium.com/@fatihmehmetozcan" target="_blank"><img height="24" width="24"
+        src="/assets/medium.svg"/></a> -->
+    <a class="footer-links" href="https://www.linkedin.com/in/fatih-mehmet-ozcan" target="_blank"><img height="24"
+        width="24" src="/assets/linkedin.svg"/></a>
+  </div>
+
+  <button onclick="topFunction()" id="myBtn" title="Go to top">▲</button>
+
+  <script>
+    function setTheme(themeName) {
+      localStorage.setItem('theme', themeName);
+      document.documentElement.className = themeName;
+    }
+
+    function toggleTheme() {
+      if (localStorage.getItem('theme') === 'theme-dark') {
+        setTheme('theme-light');
+      } else {
+        setTheme('theme-dark');
+      }
+    }
+
+    (function () {
+      if (localStorage.getItem('theme') === 'theme-dark') {
+        setTheme('theme-dark');
+        document.getElementById('slider').checked = false;
+      } else {
+        setTheme('theme-light');
+        document.getElementById('slider').checked = true;
+      }
+    })();
+  </script>
+
+  <script>
+    filterSelection("all")
+    function filterSelection(c) {
+      var x, i;
+      x = document.querySelectorAll(".filterDiv, .filterCat")
+      if (c == "all") c = "";
+      for (i = 0; i < x.length; i++) {
+        w3RemoveClass(x[i], "show");
+        if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
+      }
+    }
+    function w3AddClass(element, name) {
+      var i, arr1, arr2;
+      arr1 = element.className.split(" ");
+      arr2 = name.split(" ");
+      for (i = 0; i < arr2.length; i++) {
+        if (arr1.indexOf(arr2[i]) == -1) { element.className += " " + arr2[i]; }
+      }
+    }
+    function w3RemoveClass(element, name) {
+      var i, arr1, arr2;
+      arr1 = element.className.split(" ");
+      arr2 = name.split(" ");
+      for (i = 0; i < arr2.length; i++) {
+        while (arr1.indexOf(arr2[i]) > -1) {
+          arr1.splice(arr1.indexOf(arr2[i]), 1);
+        }
+      }
+      element.className = arr1.join(" ");
+    }
+    var btnContainer = document.getElementById("btnContainer");
+    var btns = btnContainer.getElementsByClassName("btn");
+    for (var i = 0; i < btns.length; i++) {
+      btns[i].addEventListener("click", function () {
+        var current = document.getElementsByClassName("active");
+        current[0].className = current[0].className.replace(" active", "");
+        this.className += " active";
+      });
+    }
+  </script>
+
+  <script>
+    //Get the button:
+    mybutton = document.getElementById("myBtn");
+
+    window.onscroll = function () { scrollFunction() };
+
+    function scrollFunction() {
+      if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+        mybutton.style.display = "block";
+      } else {
+        mybutton.style.display = "none";
+      }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+      // document.body.scrollTop = 0; // For Safari
+      // document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+      window.scrollTo({
+        top: 0,
+        left: 0,
+        behavior: 'smooth'
+      });
+    }
+
+  </script>
+
+</body>
+
+</html>

@@ -1,0 +1,16 @@
+---
+layout: default
+title: Notes - Fatih Mehmet Özcan
+---
+
+<h2 class="parag-header">Check out my readings</h2>
+
+<ul class="ul-blog-list">
+	{% for note in site.notes reversed %}
+	<li class="filterCat {{ note.category }}">
+	<p class="blog-date"><span class="info-text">{{ note.date | date_to_string }} {{ note.lang }}</span></p>
+	<a class="blog-title" href="{{ note.url }}" title="{{ note.title }}">{{ note.title }}
+	<p class="blog-excerpt">{{ note.excerpt }}</p></a>
+	</li>
+  	{% endfor %}
+</ul>
