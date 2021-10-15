@@ -91,4 +91,4 @@ Bu hatayı yapmayın. Siz işiniz değilsiniz, ben de benim değilim. Gözlerini
 <hr>
 
 
-[Medium.com](https://link.medium.com/***){:target="_blank"} üzerinde de erişilebilir.
+[Medium.com](https://link.medium.com/0woQVGIWmkb){:target="_blank"} üzerinde de erişilebilir.
