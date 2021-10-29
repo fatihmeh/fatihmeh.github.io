@@ -62,22 +62,22 @@ Disdain - küçük görmek
 Primordial
 ![](/assets/disco-1.png){:class="img-responsive"}
 
-**An inordinate** amount of time passes.
+An inordinate amount of time passes.
 ![](/assets/disco-2.png){:class="img-responsive"}
 
-**...lurid**, acidic sauce.
+...lurid, acidic sauce.
 ![](/assets/disco-3.png){:class="img-responsive"}
 
-**...had to bludgeon** yourself into oblivion.
+...had to bludgeon yourself into oblivion.
 ![](/assets/disco-4.png){:class="img-responsive"}
 
-**I’m insinuating** that...
+I’m insinuating that...
 ![](/assets/disco-5.png){:class="img-responsive"}
 
-**A bespectacled** man...
+A bespectacled man...
 ![](/assets/disco-6.png){:class="img-responsive"}
 
-**Her relief is palpable.**
+Her relief is palpable.
 ![](/assets/disco-7.png){:class="img-responsive"}
 
 Archipelago
@@ -110,21 +110,21 @@ Plebiscite
 Moralintern - world’s largest political organization
 ![](/assets/disco-18.jpeg){:class="img-responsive"}
 
-The situation is **precarious** to say the least.
+The situation is precarious to say the least.
 ![](/assets/disco-20.png){:class="img-responsive"}
 
-**They report to me sporadically**, but they do not answer to me.
+They report to me sporadically, but they do not answer to me.
 ![](/assets/disco-21.png){:class="img-responsive"}
 
 Subdue - hizaya getirme, elimine etme
 
-**Serves me right for doing menial** footwork.
+Serves me right for doing menial footwork.
 ![](/assets/disco-22.png){:class="img-responsive"}
 
 Culmination
 ![](/assets/disco-23.png){:class="img-responsive"}
 
-**So he doesn’t want to counter with a narrative that exonerates** the Union.
+So he doesn’t want to counter with a narrative that exonerates the Union.
 ![](/assets/disco-24.png){:class="img-responsive"}
 
 He appears aghast.
