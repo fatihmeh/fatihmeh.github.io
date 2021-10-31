@@ -11,7 +11,7 @@ category: note
 Jump to related section from anchor links.
 
 
-[<svg class="link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg> The Outsider](#the-outsider)
+[<svg class="link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg> The Outsider-Stranger](#the-outsider-stranger)
 {:class="anchor"}
 
 
@@ -34,19 +34,39 @@ Jump to related section from anchor links.
 <hr>
 
 
-### The Outsider
-
-![](/assets/outsider.jpg){:class="img-responsive"}
+### The Outsider-Stranger
 
 
-Test - test
+[![The Outsider-Stranger](/assets/outsider.jpg){:class="img-responsive"}](https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)){:target="_blank"}
+
+
+Drowsy - uykulu
+
+Mortuary - morg
+
+Reproachful - sitemli
+
+Complexion - ten rengi
+
+Ruddy - kanlı canlı
+
+💬He had beautiful light blue eyes and a slightly ruddy complexion.
+
+Hearse - cenazeyi kaldırmak
+
+Undertaker - ölü kaldırıcı
+
+Censer - tütsülük
+
+Perspiration - terleme
 
 
 <center>———</center>
 
 ### Baldur's Gate 3
 
-![](/assets/baldur-0.png){:class="img-responsive"}
+
+[![Baldur's Gate 3](/assets/baldur-0.png){:class="img-responsive"}](https://en.wikipedia.org/wiki/Baldur%27s_Gate_III){:target="_blank"}
 
 
 Test - test
@@ -58,7 +78,8 @@ Test - test
 ### Disco Elysium
 
 
-![](/assets/disco-0.png){:class="img-responsive"}
+[![Disco Elysium](/assets/disco-0.png){:class="img-responsive"}](https://en.wikipedia.org/wiki/Disco_Elysium){:target="_blank"}
+
 
 Volition - istem
 
@@ -163,8 +184,7 @@ This church was built around it, for purposes of veneration.
 ### The Outer Worlds
 
 
-![](/assets/outer-0.png){:class="img-responsive"}
-
+[![The Outer Worlds](/assets/outer-0.png){:class="img-responsive"}](https://en.wikipedia.org/wiki/The_Outer_Worlds){:target="_blank"}
 
 Contraband - kaçakçılık
 
@@ -219,7 +239,7 @@ Intrepid - cesur
 ### Blasphemous
 
 
-![](/assets/blasphemous.gif){:class="img-responsive"}
+[![Blasphemous](/assets/blasphemous.png){:class="img-responsive"}](https://en.wikipedia.org/wiki/Blasphemous_(video_game)){:target="_blank"}
 
 
 Penitent - yaptığı şey yüzünden pişman olan
