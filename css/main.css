@@ -187,11 +187,15 @@ a:hover, .blog-title:hover{
 .footer-links:hover {
   filter: invert(var(--invert-percent-2));
 }
-
 .img-responsive {
-      max-width: 80%;
+      max-width: 100%;
       max-height: 100%;
       display: block;
+}
+.p-responsive {
+  display: inline-block;
+  height: auto;
+  width: auto;
 }
 
 /* theme toogle switch */
@@ -340,10 +344,6 @@ opacity: 100%;
    .projects-list{
    display:block;
  }
- .img-responsive {
-  max-width: 100%;
-  max-height: 100%;
-}
 }
 
 @media only screen and (min-width: 1024px) and (max-width: 1439px) {
@@ -352,10 +352,6 @@ opacity: 100%;
  }
  #container {
   width: 760px;
-}
-.img-responsive {
-  max-width: 100%;
-  max-height: 100%;
 }
 }
 
