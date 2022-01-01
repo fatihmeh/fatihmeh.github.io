@@ -3,7 +3,7 @@ layout: note
 title: Dictionary Part 2
 date: 2022-01-01
 lang: EN & TR
-excerpt: Prolegomena to Any Future Metaphysics, Dune
+excerpt: Dune, Prolegomena to Any Future Metaphysics
 category: note
 ---
 
@@ -11,15 +11,77 @@ category: note
 Jump to related section from anchor links.
 
 
-[<svg class="link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg> Prolegomena to Any Future Metaphysics](#prolegomena-to-any-future-metaphysics)
-{:class="anchor"}
-
-
 [<svg class="link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg> Dune](#dune)
 {:class="anchor"}
 
 
+[<svg class="link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg> Prolegomena to Any Future Metaphysics](#prolegomena-to-any-future-metaphysics)
+{:class="anchor"}
+
+
 <hr>
+
+
+### Dune
+
+
+[![Dune](/assets/dune-0.jpg){:class="img-responsive"}](https://en.wikipedia.org/wiki/Dune_(novel)){:target="_blank"}
+
+
+Arrakis - Dune - Desert planet
+
+
+—
+
+
+Scurrying
+![](/assets/dune-1.jpeg){:class="img-responsive"}
+
+
+Crone
+![](/assets/dune-2.jpeg){:class="img-responsive"}
+
+
+Twanged - the old woman asked. Her voice wheezed and twanged like an untuned baliset.
+![](/assets/dune-3.jpeg){:class="img-responsive"}
+
+
+Volition - He fought down an aching shiver, stares at the lightless void where his hand seemed to remain of its own volition.
+![](/assets/dune-4.jpeg){:class="img-responsive"}
+
+
+Veriform - Veriform suspended chairs
+
+
+Slender, 14 - The other held a slender, short man with an effminate face.
+![](/assets/dune-5.png){:class="img-responsive"}
+
+
+Poignant, 15 - Emperor believes he’s given the Duke your spice planet. How poignant.
+![](/assets/dune-6.png){:class="img-responsive"}
+
+
+Waggish, 16 - How waggish of you
+![](/assets/dune-7.png){:class="img-responsive"}
+
+
+Pliant, 17 - But surely Leto will know whose hand directed the pliant doctor
+![](/assets/dune-8.png){:class="img-responsive"}
+
+
+Salient, 19 - Now, Piter, outline for my nephew the salient features of our campaign agaisnt the House of Atreides.
+![](/assets/dune-9.png){:class="img-responsive"}
+
+
+Renegade, 20 - There are certain preparations that indicate when a House is going renegade.
+![](/assets/dune-10.png){:class="img-responsive"}
+
+
+Mongrel, 22 - except for the few mongrel Fremen hiding in the skirts of the desert
+![](/assets/dune-11.png){:class="img-responsive"}
+
+
+<center>———</center>
 
 
 ### Prolegomena to Any Future Metaphysics
@@ -28,19 +90,19 @@ Jump to related section from anchor links.
 [![Prolegomena to Any Future Metaphysics](/assets/prolegomena-0.jpg){:class="img-responsive"}](https://en.wikipedia.org/wiki/Prolegomena_to_Any_Future_Metaphysics){:target="_blank"}
 
 
-Pedantic, xii - It was primarily a Latin school, strict and pedantic, where Kant studied the classics,*
+Pedantic, xii - It was primarily a Latin school, strict and pedantic, where Kant studied the classics,
 ![](/assets/prolegomena-1.png){:class="img-responsive"}
 
 
-Rote, xii - *largely by rote; the enforced outward piety experienced in*
+Rote, xii - largely by rote; the enforced outward piety experienced in
 ![](/assets/prolegomena-2.png){:class="img-responsive"}
 
 
-Impetus, xii - *in this school was an impetus to his lifelong endeavor to seperate the social practices of religion from its intellectual and moral substance.
+Impetus, xii - in this school was an impetus to his lifelong endeavor to seperate the social practices of religion from its intellectual and moral substance.
 ![](/assets/prolegomena-3.png){:class="img-responsive"}
 
 
-Internment, xv - *brought it to the cathedral for the internment in the “professors’ vault.”
+Internment, xv - brought it to the cathedral for the internment in the “professors’ vault.”
 ![](/assets/prolegomena-4.png){:class="img-responsive"}
 
 
@@ -48,11 +110,11 @@ Predicate, xvi - He defined ontology as the science of the “predicates of bein
 ![](/assets/prolegomena-5.png){:class="img-responsive"}
 
 
-Hitherto, xviii  - *and hitherto unrecognized, cognitive status, which he describes as “synthetic a priori.”
+Hitherto, xviii  - and hitherto unrecognized, cognitive status, which he describes as “synthetic a priori.”
 ![](/assets/prolegomena-6.png){:class="img-responsive"}
 
 
-Redress, xx - The new work was motivated both by a desire to redress the dissappointing reception of the Critique bu publishing a more approachable work,*
+Redress, xx - The new work was motivated both by a desire to redress the dissappointing reception of the Critique bu publishing a more approachable work,
 ![](/assets/prolegomena-7.png){:class="img-responsive"}
 
 
@@ -60,11 +122,11 @@ Laudatory, xxii - Beyond its laudatory introduction, the review is largely put t
 ![](/assets/prolegomena-8.png){:class="img-responsive"}
 
 
-- Connotation, xxiii - In this context the word “intuition” does not have the connotation of “followimg a feeling,”*
+- Connotation, xxiii - In this context the word “intuition” does not have the connotation of “followimg a feeling,”
 ![](/assets/prolegomena-9.png){:class="img-responsive"}
 
 
-Syllogistic, xxiv  - *“logic” meant not only general logic, which in his time was syllogistic logic, but also what he called “transcendental logic,” in which the cognitive conditions on “thinking” objects are determined.
+Syllogistic, xxiv  - “logic” meant not only general logic, which in his time was syllogistic logic, but also what he called “transcendental logic,” in which the cognitive conditions on “thinking” objects are determined.
 ![](/assets/prolegomena-10.png){:class="img-responsive"}
 
 
@@ -93,7 +155,7 @@ Disjunctive, xxxi - The transcendental ideas are obtained by reflecting on the t
 ![](/assets/prolegomena-16.png){:class="img-responsive"}
 
 
-Purported, xxxiv - *human cognition, and in the question of the relation of our modes of representation to the reality they are purported to represent.
+Purported, xxxiv - human cognition, and in the question of the relation of our modes of representation to the reality they are purported to represent.
 ![](/assets/prolegomena-17.png){:class="img-responsive"}
 
 
@@ -105,7 +167,7 @@ Pronomial, xli - I have tried to avoid introducing ambiguities into the English 
 ![](/assets/prolegomena-19.png){:class="img-responsive"}
 
 
-Incessantly, 5 * If it is not, how does it happen that, under the pretense of a science it incessantly shows off, and strings along the human understanding with hopes that never dim but are never fulfilled?
+Incessantly, 5  If it is not, how does it happen that, under the pretense of a science it incessantly shows off, and strings along the human understanding with hopes that never dim but are never fulfilled?
 ![](/assets/prolegomena-20.png){:class="img-responsive"}
 
 
@@ -156,18 +218,9 @@ could correct our judgment within it, the validity and use of each part depends 
 ![](/assets/prolegomena-31.png){:class="img-responsive"}
 
 
-Indolence, Dimwittedness, 13 - *a familiar cloaking for one’s own indolence or dimwittedness*
+Indolence, Dimwittedness, 13 - a familiar cloaking for one’s own indolence or dimwittedness
 ![](/assets/prolegomena-32.png){:class="img-responsive"}
 ![](/assets/prolegomena-33.png){:class="img-responsive"}
-
-
-<center>———</center>
-
-
-### Dune
-
-
-[![Dune](/assets/dune-0.jpg){:class="img-responsive"}](https://en.wikipedia.org/wiki/Dune_(novel)){:target="_blank"}
 
 
 <center>———</center>
