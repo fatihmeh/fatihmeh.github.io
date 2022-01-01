@@ -189,7 +189,7 @@ a:hover, .blog-title:hover{
 }
 
 .img-responsive {
-      max-width: 100%;
+      max-width: 80%;
       max-height: 100%;
       display: block;
 }
@@ -340,6 +340,10 @@ opacity: 100%;
    .projects-list{
    display:block;
  }
+ .img-responsive {
+  max-width: 100%;
+  max-height: 100%;
+}
 }
 @media only screen and (min-width: 1024px) and (max-width: 1439px) {
  .projects-list{
@@ -347,6 +351,10 @@ opacity: 100%;
  }
  #container {
   width: 760px;
+}
+.img-responsive {
+  max-width: 100%;
+  max-height: 100%;
 }
 }
 @media only screen and (min-width: 1440px) {
