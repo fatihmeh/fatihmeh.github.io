@@ -3,7 +3,7 @@ layout: note
 title: Dictionary Part 1
 date: 2021-10-29
 lang: EN & TR
-excerpt: Word meanings, translations from articles, games and etc.
+excerpt: Disco Elysium, The Outer Worlds, Blasphemous, The Outsider-Stranger
 category: note
 ---
 
