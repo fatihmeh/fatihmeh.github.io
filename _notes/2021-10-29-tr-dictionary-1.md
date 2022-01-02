@@ -38,7 +38,6 @@ Jump to related section from anchor links.
 
 Volition - istem
 
-İçip başı ağrıdığını anlatıyor ve “a clarion call from hell” diyerek betimliyor duyduğu ağrıyı
 Clarion - yüksek ve duyulan ses
 
 Savoir faire - el becerisi
@@ -47,10 +46,8 @@ Bespectacled - gözlüklü
 
 Esprit de corps - birlik ruhu
 
-Kendisine 3 kelimeli bir isim uydurdu ve bu acaba abartlı mı oldu diye düşündü
 Ostentatious - gösterişli
 
-Sorulan soruya cevap veren kişi sadece yes dedi, he responds tersely
 Tersely - kısa ve öz şekilde
 
 Disdain - küçük görmek
@@ -151,7 +148,7 @@ Ruse - dalavere
 
 Penitentary - kilise mahkemesi başkanı rahip, cezaevi
 
-Penchant - a strong or habitual liking for something or tendency to do something.
+Penchant - a strong or habitual liking for something or tendency to do something
 
 Benign - iyi huylu, tehlikesiz
 
