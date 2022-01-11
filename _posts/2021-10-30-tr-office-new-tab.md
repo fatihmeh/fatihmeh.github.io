@@ -18,6 +18,3 @@ There is an easy way to achieve this, [Office RibbonX Editor](https://github.com
 
 
 Another example is, you can edit Excel add-in files (.xlam) and add them as add-in via 'Developer' tab to see your custom tab on every workbook.
-
-
-...
