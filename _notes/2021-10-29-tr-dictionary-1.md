@@ -36,97 +36,97 @@ Jump to related section from anchor links.
 [![Disco Elysium](/assets/disco-0.png){:class="img-responsive"}](https://en.wikipedia.org/wiki/Disco_Elysium){:target="_blank"}
 
 
-Volition - istem
+Volition > istem
 
-Clarion - yüksek ve duyulan ses
+Clarion > yüksek ve duyulan ses
 
-Savoir faire - el becerisi
+Savoir faire > el becerisi
 
-Bespectacled - gözlüklü
+Bespectacled > gözlüklü
 
-Esprit de corps - birlik ruhu
+Esprit de corps > birlik ruhu
 
-Ostentatious - gösterişli
+Ostentatious > gösterişli
 
-Tersely - kısa ve öz şekilde
+Tersely > kısa ve öz şekilde
 
-Disdain - küçük görmek
+Disdain > küçük görmek
 
-Primordial
+Primordial >
 ![](/assets/disco-1.png){:class="img-responsive"}
 
-An inordinate amount of time passes.
+An inordinate amount of time passes. >
 ![](/assets/disco-2.png){:class="img-responsive"}
 
-...lurid, acidic sauce.
+...lurid, acidic sauce. >
 ![](/assets/disco-3.png){:class="img-responsive"}
 
-...had to bludgeon yourself into oblivion.
+...had to bludgeon yourself into oblivion. >
 ![](/assets/disco-4.png){:class="img-responsive"}
 
-I’m insinuating that...
+I’m insinuating that... >
 ![](/assets/disco-5.png){:class="img-responsive"}
 
-A bespectacled man...
+A bespectacled man... >
 ![](/assets/disco-6.png){:class="img-responsive"}
 
-Her relief is palpable.
+Her relief is palpable. >
 ![](/assets/disco-7.png){:class="img-responsive"}
 
-Archipelago
+Archipelago >
 ![](/assets/disco-9.png){:class="img-responsive"}
 
-...innocuous questions...
+...innocuous questions... >
 ![](/assets/disco-10.png){:class="img-responsive"}
 
-...it’s just a collegial observation.
+...it’s just a collegial observation. >
 ![](/assets/disco-11.png){:class="img-responsive"}
 
-...tend to move a bit erraticaly.
+...tend to move a bit erraticaly. >
 ![](/assets/disco-12.png){:class="img-responsive"}
 
-Seems prudent
+Seems prudent >
 ![](/assets/disco-13.png){:class="img-responsive"}
 
-...it’s hard to discern sex from a person’s gait.
+...it’s hard to discern sex from a person’s gait. >
 ![](/assets/disco-14.png){:class="img-responsive"}
 
-It’s rectangular, sparkling with iridescence.
+It’s rectangular, sparkling with iridescence. >
 ![](/assets/disco-15.png){:class="img-responsive"}
 
-Plebiscite
+Plebiscite >
 ![](/assets/disco-16.png){:class="img-responsive"}
 
-“Okay...” He sounds incredulous.
+“Okay...” He sounds incredulous. >
 ![](/assets/disco-17.png){:class="img-responsive"}
 
-Moralintern - world’s largest political organization
+Moralintern > world’s largest political organization
 ![](/assets/disco-18.jpeg){:class="img-responsive"}
 
-The situation is precarious to say the least.
+The situation is precarious to say the least. >
 ![](/assets/disco-20.png){:class="img-responsive"}
 
-They report to me sporadically, but they do not answer to me.
+They report to me sporadically, but they do not answer to me. >
 ![](/assets/disco-21.png){:class="img-responsive"}
 
-Subdue - hizaya getirme, elimine etme
+Subdue > hizaya getirme, elimine etme
 
-Serves me right for doing menial footwork.
+Serves me right for doing menial footwork. >
 ![](/assets/disco-22.png){:class="img-responsive"}
 
-Culmination
+Culmination >
 ![](/assets/disco-23.png){:class="img-responsive"}
 
-So he doesn’t want to counter with a narrative that exonerates the Union.
+So he doesn’t want to counter with a narrative that exonerates the Union. >
 ![](/assets/disco-24.png){:class="img-responsive"}
 
-He appears aghast.
+He appears aghast. >
 ![](/assets/disco-25.png){:class="img-responsive"}
 
-Perforation
+Perforation >
 This is a special place. There’s a perforation in the world up there.
 
-Veneration
+Veneration >
 This church was built around it, for purposes of veneration.
 
 
@@ -138,51 +138,51 @@ This church was built around it, for purposes of veneration.
 
 [![The Outer Worlds](/assets/outer-0.png){:class="img-responsive"}](https://en.wikipedia.org/wiki/The_Outer_Worlds){:target="_blank"}
 
-Contraband - kaçakçılık
+Contraband > kaçakçılık
 
-Glands - hormonal bezler
+Glands > hormonal bezler
 
-Qualms - çekince
+Qualms > çekince
 
-Ruse - dalavere
+Ruse > dalavere
 
-Penitentary - kilise mahkemesi başkanı rahip, cezaevi
+Penitentary > kilise mahkemesi başkanı rahip, cezaevi
 
-Penchant - a strong or habitual liking for something or tendency to do something
+Penchant > a strong or habitual liking for something or tendency to do something
 
-Benign - iyi huylu, tehlikesiz
+Benign > iyi huylu, tehlikesiz
 
-Deplorable - deserving strong condemnation; completely unacceptable
+Deplorable > deserving strong condemnation; completely unacceptable
 
-Conduct - davranış
+Conduct > davranış
 
-Placate - sakinleştirmek
+Placate > sakinleştirmek
 
-Domicile - konut
+Domicile > konut
 
-Deftly - ustaca
+Deftly > ustaca
 
-Dissenters - muhalif
+Dissenters > muhalif
 
-Audacity - küstahlık
+Audacity > küstahlık
 
-Astute - cin fikirli
+Astute > cin fikirli
 
-Toil - zahmet
+Toil > zahmet
 
-Subterfuge - dalavere
+Subterfuge > dalavere
 
-Culprit - suçlu
+Culprit > suçlu
 
-Accost - yaklaşıp konuşmak
+Accost > yaklaşıp konuşmak
 
-Merit - erdem, fazilet
+Merit > erdem, fazilet
 
-Larceny - hırsızlık
+Larceny > hırsızlık
 
-Swire - domuz
+Swire > domuz
 
-Intrepid - cesur
+Intrepid > cesur
 
 
 <center>———</center>
@@ -194,19 +194,19 @@ Intrepid - cesur
 [![Blasphemous](/assets/blasphemous.png){:class="img-responsive"}](https://en.wikipedia.org/wiki/Blasphemous_(video_game)){:target="_blank"}
 
 
-Penitent - yaptığı şey yüzünden pişman olan
+Penitent > yaptığı şey yüzünden pişman olan
 
-Ailing - rahatsız, hasta
+Ailing > rahatsız, hasta
 
-Devout - samimi, sadık, dindar
+Devout > samimi, sadık, dindar
 
-Ointment - merhem, yağ
+Ointment > merhem, yağ
 
-Alleviate - hafifletmek
+Alleviate > hafifletmek
 
-Erring - yanılma, hatalı
+Erring > yanılma, hatalı
 
-Contrite - remorseful
+Contrite > remorseful
 
 
 <center>———</center>
@@ -217,23 +217,20 @@ Contrite - remorseful
 
 [![The Outsider-Stranger](/assets/outsider.jpg){:class="img-responsive"}](https://en.wikipedia.org/wiki/The_Stranger_(Camus_novel)){:target="_blank"}
 
-Drowsy - uykulu
+Drowsy > uykulu
 
-Mortuary - morg
+Mortuary > morg
 
-Reproachful - sitemli
+Reproachful > sitemli
 
-Complexion - ten rengi
+Complexion > ten rengi
 
-Ruddy - kanlı canlı 💬 He had beautiful light blue eyes and a slightly ruddy complexion.
+Ruddy > kanlı canlı 💬 He had beautiful light blue eyes and a slightly ruddy complexion.
 
-Hearse - cenazeyi kaldırmak
+Hearse > cenazeyi kaldırmak
 
-Undertaker - ölü kaldırıcı
+Undertaker > ölü kaldırıcı
 
-Censer - tütsülük
+Censer > tütsülük
 
-Perspiration - terleme
-
-
-<center>———</center>
+Perspiration > terleme
