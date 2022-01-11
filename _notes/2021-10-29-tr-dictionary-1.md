@@ -130,6 +130,9 @@ Veneration >
 This church was built around it, for purposes of veneration.
 
 
+...completed.
+
+
 <center>———</center>
 
 
@@ -185,6 +188,9 @@ Swire > domuz
 Intrepid > cesur
 
 
+...completed.
+
+
 <center>———</center>
 
 
@@ -207,6 +213,9 @@ Alleviate > hafifletmek
 Erring > yanılma, hatalı
 
 Contrite > remorseful
+
+
+...dropped.
 
 
 <center>———</center>
@@ -234,3 +243,6 @@ Undertaker > ölü kaldırıcı
 Censer > tütsülük
 
 Perspiration > terleme
+
+
+...completed.
