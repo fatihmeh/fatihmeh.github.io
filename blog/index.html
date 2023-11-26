@@ -21,7 +21,7 @@ title: Blog - Fatih Mehmet Özcan
 	<p class="blog-date"><span class="info-text">{{ post.date | date_to_string }} {{ post.lang }}</span></p>
 	<a class="blog-title" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}
 	<p class="blog-excerpt">{{ post.excerpt }}</p></a>
-	<p class="category">{{ note.category }}</p>
+	<p class="category">{{ post.category }}</p>
 	</li>
   	{% endfor %}
 </ul>
