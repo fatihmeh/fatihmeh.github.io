@@ -4,7 +4,7 @@ title: Meslek Kişilik Değildir
 date: 2021-10-15
 lang: TR
 excerpt: Kendinizi herhangi bir özelliğe indirgemek, ister ünvanınız ister iş performansınız olsun, son derece zarar verici bir eylemdir
-category : translation
+category : translation legacy
 ---
 
 

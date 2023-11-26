@@ -4,7 +4,7 @@ title: Notes Part 2
 date: 2020-07-22
 lang: EN & TR
 excerpt: 737-MAX crisis, Covid-19, Uyghur Turks, online privacy, philosophy.
-category: note
+category: note legacy
 ---
 
 

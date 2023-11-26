@@ -4,7 +4,7 @@ title: Create Custom Tab in Office
 date: 2021-10-30
 lang: EN
 excerpt: Create a custom ribbon tab, with custom images and other possibilities
-category : other
+category : other legacy
 ---
 
 

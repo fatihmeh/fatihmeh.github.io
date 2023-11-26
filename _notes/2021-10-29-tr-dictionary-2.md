@@ -4,7 +4,7 @@ title: Dictionary Part 2
 date: 2022-01-01
 lang: EN & TR
 excerpt: Dune, Prolegomena to Any Future Metaphysics
-category: note
+category: note legacy
 ---
 
 
