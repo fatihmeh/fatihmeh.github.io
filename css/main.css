@@ -124,6 +124,7 @@ p a {
 .blog-excerpt {
   color: gray; margin-top:8px; font-size:1rem;
 }
+.category {color: white; margin-top:8px; font-size:0.7rem;}
 .info-text{
   color: var(--color-blog); font-family: "Courier New", Courier, monospace;
 }

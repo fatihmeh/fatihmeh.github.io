@@ -4,7 +4,7 @@ title: Modelling Methods
 date: 2019-07-25
 lang: EN
 excerpt: Summary of CAD modelling techniques used in real scenario applications.
-category: cad
+category: cad legacy
 ---
 
 
