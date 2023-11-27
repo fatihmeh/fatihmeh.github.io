@@ -4,7 +4,7 @@ title: Article Readings
 date: 2020-08-26
 lang: EN & TR
 excerpt: What I read lately
-category: note legacy
+category: note archive
 ---
 
 

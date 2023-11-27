@@ -4,7 +4,7 @@ title: Notes Part 3
 date: 2020-07-23
 lang: EN & TR
 excerpt: Covid-19 and Uyghur Turks.
-category: note legacy
+category: note archive
 ---
 
 

@@ -4,7 +4,7 @@ title: CAD Blog list
 date: 2019-07-25
 lang: EN
 excerpt: Personal and corporate blog sites about parametric design, manufacturing, additive manufacturing, etc.
-category: cad legacy
+category: cad archive
 ---
 
 

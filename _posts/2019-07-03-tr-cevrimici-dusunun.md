@@ -4,7 +4,7 @@ title: Çevrimiçiyken göze çarpmadığınızı mı düşünüyorsunuz?
 date: 2019-07-03
 lang: TR
 excerpt: Zeynep Tüfekçi tarafından, The New York Times üzerinde yayınlanan makalenin, İngilizce'den Türkçe'ye çevirisidir.
-category : translation legacy
+category : translation archive
 ---
 
 

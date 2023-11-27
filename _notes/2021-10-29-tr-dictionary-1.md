@@ -4,7 +4,7 @@ title: Dictionary Part 1
 date: 2021-10-29
 lang: EN & TR
 excerpt: Disco Elysium, The Outer Worlds, Blasphemous, The Outsider-Stranger
-category: note legacy
+category: note archive
 ---
 
 

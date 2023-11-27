@@ -4,7 +4,7 @@ title: Zeki Müren de bizi görecek mi?
 date: 2019-07-03
 lang: TR
 excerpt: Çevrimiçi hareketlerinizden kimliğinizin nasıl profillendirildiği ve detayları.
-category: self legacy
+category: self archive
 ---
 
 

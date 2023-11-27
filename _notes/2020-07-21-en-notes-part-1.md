@@ -4,7 +4,7 @@ title: Notes Part 1
 date: 2020-07-21
 lang: EN
 excerpt: Arbitrary notes from what I read. Imported from my Apple Notes. Topics included are 737-MAX crisis, Covid-19, Uyghur Turks, online privacy.
-category: note legacy
+category: note archive
 ---
 
 
