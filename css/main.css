@@ -35,6 +35,7 @@ body {
    --invert-percent-2:100%;
    --invert-percent-3:100%;
    --color-card: #eee;
+--color-category: white;
 }
 .theme-light {
    --color-primary: #222;
@@ -46,6 +47,7 @@ body {
    --invert-percent-2:50%;
    --invert-percent-3:0%;
    --color-card: #333;
+--color-category: #555D50;
 }
 #container {
   width:60%; margin:auto; margin-top:0px; margin-bottom:0px;  text-align:left;
@@ -124,7 +126,7 @@ p a {
 .blog-excerpt {
   color: gray; margin-top:8px; font-size:1rem;
 }
-.category {color: white; margin-top:8px; font-size:0.7rem;}
+.category {color: var(--color-category); margin-top:8px; font-size:0.7rem;}
 .info-text{
   color: var(--color-blog); font-family: "Courier New", Courier, monospace;
 }
