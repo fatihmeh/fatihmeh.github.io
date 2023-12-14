@@ -36,6 +36,7 @@ body {
    --invert-percent-3:100%;
    --color-card: #eee;
 --color-category: white;
+	--img-filter:100%;
 }
 .theme-light {
    --color-primary: #222;
@@ -48,6 +49,7 @@ body {
    --invert-percent-3:0%;
    --color-card: #333;
 --color-category: #555D50;
+	--img-filter:0%;
 }
 #container {
   width:60%; margin:auto; margin-top:0px; margin-bottom:0px;  text-align:left;
@@ -189,6 +191,10 @@ a:hover, .blog-title:hover{
 }
 .footer-links:hover {
   filter: invert(var(--invert-percent-2));
+}
+
+.img-effect {
+	filter: invert(var(--img-filter));
 }
 .img-responsive {
       max-width: 100%;
