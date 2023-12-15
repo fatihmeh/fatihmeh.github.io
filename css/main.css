@@ -291,7 +291,7 @@ input:checked + .slider:before {
   padding:5px;
   /* background-color: var(--color-card); */
 }
-.filterCat {
+.filterCat, .filterList {
   display:none;
 }
 .card {
@@ -319,6 +319,9 @@ opacity: 100%;
 /* JS button styling */
 .show {
   display: block;
+}
+.showList {
+  display: inline flow-root list-item;
 }
 #btnContainer{
   padding-bottom:20px;
