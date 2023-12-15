@@ -321,7 +321,7 @@ opacity: 100%;
   display: block;
 }
 .showList {
-  display: inline flow-root list-item;
+  display: list-item;
 }
 #btnContainer{
   padding-bottom:20px;

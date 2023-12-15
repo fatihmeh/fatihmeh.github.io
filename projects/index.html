@@ -74,11 +74,9 @@ title: Projects - Fatih Mehmet Özcan
         if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");}
 
 y = document.querySelectorAll(".filterList")
-      if (c == "all") c = "";
       for (i = 0; i < y.length; i++) {
         w3RemoveClass(y[i], "showList");
         if (y[i].className.indexOf(c) > -1) w3AddClass(y[i], "showList");}
-
     }
 
     function w3AddClass(element, name) {
