@@ -346,7 +346,7 @@ opacity: 100%;
   #container {
    width: 90%;
  }
- #btnContainer, .row{
+ .row{
    display: none;
    text-align: left;
  }
