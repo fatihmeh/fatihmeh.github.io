@@ -360,7 +360,7 @@ opacity: 100%;
   background-size: contain;
 }
 #driveworks{
-  background-image: url("/assets/sel_driveworks-1.png");
+  background-image: url("/assets/sel_driveworks-1.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -368,23 +368,26 @@ opacity: 100%;
 .selected{
 }
 .first{
-      order:1;
+      order:0;
 }
 .second{
-      order:2;
+      order:1;
 }
 .sel-img-div{
   /* border-radius: 0.4em; */
   height: 275px;
-  min-width: 350px;
+  width: 50%;
 }
 .sel-text{
   align-content:center;
   text-align: center;
-  margin:auto;
+  padding-left:30px;
+  padding-right:20px;
+  width: 50%;
 }
 .sel-col{
-display: flex;
+  display: flex;
+  margin-bottom:40px;
 }
 .sel-text p {
   margin-bottom:10px;
@@ -393,11 +396,12 @@ display: flex;
   font-size:1.2em
 }
 .ul-text-desc {
-  font-size:12px;
   text-align:left;
 }
 .ul-text-desc li {
-  margin-bottom:5px;
+  padding-top:6px; padding-bottom:6px;
+  font-size: 0.8rem;
+  list-style-position: inside;
 }
 
 /* JS button styling */
@@ -429,7 +433,7 @@ display: flex;
 }
 
 /* adaptive */
-@media only screen and (max-width: 823px) {
+@media only screen and (max-width: 523px) {
   #container {
    width: 90%;
  }
@@ -441,17 +445,24 @@ display: flex;
    display:block;
  }
 
-  .sel-col, .sel-img-div {
-  }
-  .selected, .sel-col{
+  .sel-col{
     display:block;
   }
-  .sel-img-div{
-  min-width: auto;
+    .sel-img-div, .sel-text{
+      width:100%;
+    }
+}
+
+@media only screen and (min-width: 524px) and (max-width: 839px) {
+ .projects-list{
+   display:none;
+ }
+ #container {
+  width: 560px;
 }
 }
 
-@media only screen and (min-width: 824px) and (max-width: 1439px) {
+@media only screen and (min-width: 840px) and (max-width: 1439px) {
  .projects-list{
    display:none;
  }
@@ -467,4 +478,7 @@ display: flex;
   #container {
    width: 950px;
  }
- }
+ #airnav{
+  background-position: top;
+}
+}
