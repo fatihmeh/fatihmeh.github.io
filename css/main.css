@@ -35,8 +35,8 @@ body {
    --invert-percent-2:100%;
    --invert-percent-3:100%;
    --color-card: #eee;
---color-category: white;
-	--img-filter:100%;
+   --color-category: white;
+   --img-filter:100%;
 }
 .theme-light {
    --color-primary: #222;
@@ -48,8 +48,8 @@ body {
    --invert-percent-2:50%;
    --invert-percent-3:0%;
    --color-card: #333;
---color-category: #555D50;
-	--img-filter:0%;
+   --color-category: #555D50;
+   --img-filter:0%;
 }
 #container {
   width:60%; margin:auto; margin-top:0px; margin-bottom:0px;  text-align:left;
@@ -57,7 +57,6 @@ body {
 p a {
   color: var(--color-pa); word-wrap: break-word;
 }
-
 
 /* top */
 #header-div, #footer {
@@ -316,6 +315,91 @@ input:checked + .slider:before {
 opacity: 100%;
 }
 
+/* Selected works */
+
+#can {
+  background-image: url("/assets/sel_can-1.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#sedye-video{
+  background-image: url("/assets/sel_sedye-4.jpg");
+  background-position: 80%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#sedye-kart{
+  background-image: url("/assets/sel_sedye-1.png");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#airnav{
+  background-image: url("/assets/sel_airnav-1.png");
+  background-position: 70%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#autocad{
+  background-image: url("/assets/sel_autocad-1.PNG");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#insert{
+  background-image: url("/assets/sel_insert-1.png");
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#import{
+  background-image: url("/assets/sel_import-1.PNG");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+#driveworks{
+  background-image: url("/assets/sel_driveworks-1.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.selected{
+}
+.first{
+      order:1;
+}
+.second{
+      order:2;
+}
+.sel-img-div{
+  /* border-radius: 0.4em; */
+  height: 275px;
+  min-width: 350px;
+}
+.sel-text{
+  align-content:center;
+  text-align: center;
+  margin:auto;
+}
+.sel-col{
+display: flex;
+}
+.sel-text p {
+  margin-bottom:10px;
+}
+.text-title {
+  font-size:1.2em
+}
+.ul-text-desc {
+  font-size:12px;
+  text-align:left;
+}
+.ul-text-desc li {
+  margin-bottom:5px;
+}
+
 /* JS button styling */
 .show {
   display: block;
@@ -345,7 +429,7 @@ opacity: 100%;
 }
 
 /* adaptive */
-@media only screen and (max-width: 1023px) {
+@media only screen and (max-width: 823px) {
   #container {
    width: 90%;
  }
@@ -356,9 +440,18 @@ opacity: 100%;
    .projects-list{
    display:block;
  }
+
+  .sel-col, .sel-img-div {
+  }
+  .selected, .sel-col{
+    display:block;
+  }
+  .sel-img-div{
+  min-width: auto;
+}
 }
 
-@media only screen and (min-width: 1024px) and (max-width: 1439px) {
+@media only screen and (min-width: 824px) and (max-width: 1439px) {
  .projects-list{
    display:none;
  }

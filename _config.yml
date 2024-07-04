@@ -9,5 +9,5 @@ social:
     - https://github.com/fatihmeh
     - https://gitlab.com/fatihmehmetozcan
 collections:
-  notes:
+  posts:
     output: true
