@@ -1,13 +1,14 @@
 name: Fatih Mehmet Özcan
-title: Fatih Mehmet Özcan
+title: Fatih Mehmet Özcan's Personal Site
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-url: https://fatihmeh.github.io
+url: https://www.fatihozcan.dev
 logo: /favicon.svg
 social:
   links:
+    - https://www.fatihozcan.dev
     - https://github.com/fatihmeh
-    - https://gitlab.com/fatihmehmetozcan
 collections:
   posts:
     output: true
+timezone: Asia/Istanbul
