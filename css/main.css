@@ -88,7 +88,7 @@ p a {
 
 /* lists */
 .nav, .ul-project-list li a, .ul-blog-list a {
-  text-decoration: none; 
+  text-decoration: none;
 }
 .ul-project-list a, .ul-blog-list li a {
   color: var(--color-link);
@@ -214,7 +214,7 @@ a:hover, .blog-title:hover{
   height: 18px;
   margin-top: 20px;
 }
-.switch input { 
+.switch input {
   opacity: 0;
   width: 0;
   height: 0;
@@ -425,7 +425,7 @@ opacity: 100%;
   z-index: 99;
   color: var(--color-primary);
   background-color: var(--color-background);
-  cursor: pointer; 
+  cursor: pointer;
   padding: 9px 12px 12px 12px;
   font-size: 1.1rem;
   border: 1px solid var(--color-primary);
@@ -433,7 +433,7 @@ opacity: 100%;
 }
 
 /* adaptive */
-@media only screen and (max-width: 523) {
+@media only screen and (max-width: 839px) {
   #container {
    width: 90%;
  }
@@ -444,6 +444,7 @@ opacity: 100%;
    .projects-list{
    display:block;
  }
+
   .sel-col{
     display:block;
   }
@@ -456,31 +457,13 @@ opacity: 100%;
      #airnav{
   background-position: top;
 }
-#driveworks{
-  background-size: contain;
 }
 
-}
 
 @media only screen and (min-width: 524px) and (max-width: 839px) {
- .row{
-   display: none;
-   text-align: left;
- }
-   .projects-list{
+ .projects-list{
    display:block;
  }
-
-  .sel-col{
-    display:block;
-  }
-    .sel-img-div, .sel-text{
-      width:100%;
-    }
-    .sel-text{
-      padding-top:10px;
-    }
-
  #container {
   width: 70%;
 }
@@ -490,9 +473,7 @@ opacity: 100%;
 #driveworks{
   background-size: contain;
 }
-
 }
-
 
 @media only screen and (min-width: 840px) and (max-width: 1439px) {
  .projects-list{
