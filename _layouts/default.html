@@ -2,12 +2,10 @@
 # default
 ---
 
-<!-- Generated {{ site.time }} | Revision {{ site.github.build_revision }} -->
+<!-- Generated {{ site.time }} -->
 
 <!DOCTYPE html>
 <html lang="en" class="theme-light">
-
-{% include build_version.html %}
 
 <head>
   <meta property="og:image" content="/assets/tb.png">
@@ -25,6 +23,7 @@
   <link rel="mask-icon" href="/icon-main/safari-pinned-tab.svg" color="#000000">
   <link rel="shortcut icon" href="/icon-main/favicon.ico">
   <title>{{ page.title }}</title>
+  {% include build_version.html %}
 </head>
 
 <body>
