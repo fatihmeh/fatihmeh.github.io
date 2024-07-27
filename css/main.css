@@ -20,7 +20,7 @@ time, mark, audio, video {
 
 /* main */
 body {
-  font-family: Georgia, serif;
+  font-family: "Lucida Console", Courier, monospace;
   color: var(--color-primary);
   background: var(--color-background);
 
@@ -380,8 +380,8 @@ opacity: 100%;
 .sel-text{
   align-content:center;
   text-align: left;
-  padding-left:20px;
-  padding-right:20px;
+  padding-left:25px;
+  padding-right:25px;
   width: 50%;
 }
 .sel-col{
@@ -400,7 +400,7 @@ opacity: 100%;
 }
 .ul-text-desc li {
   padding-top:6px; padding-bottom:6px;
-  font-size: 0.8rem;
+  font-size: 0.9em;
   list-style-position: inside;
 }
 
