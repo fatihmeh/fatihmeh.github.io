@@ -20,7 +20,7 @@ time, mark, audio, video {
 
 /* main */
 body {
-  font-family: "Lucida Console", Courier, monospace;
+  font-family: Georgia, serif;
   color: var(--color-primary);
   background: var(--color-background);
 
