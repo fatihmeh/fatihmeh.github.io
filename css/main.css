@@ -66,8 +66,8 @@ p a {
   padding-top:40px;
 }
 #header-text {
-  margin-bottom:5px;
-  font-size: 1.6rem;
+  margin-bottom:15px;
+  font-size: 1.8rem;
   color: var(--color-primary);
   font-weight: lighter;
   font-family:Lydian;
