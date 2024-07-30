@@ -67,9 +67,9 @@ p a {
 }
 #header-text {
   margin-bottom:15px;
-  font-size: 1.8rem;
+  font-size: 1.7rem;
   color: var(--color-primary);
-  font-weight: lighter;
+  /* font-weight: lighter; */
   font-family:Lydian;
 }
 .nav {
@@ -388,8 +388,8 @@ opacity: 100%;
 }
 .sel-col{
   display: flex;
-  margin-bottom:20px;
-  margin-top:20px;
+  /* margin-bottom:20px; */
+  margin-top:40px;
 }
 .sel-text p {
   margin-bottom:10px;
