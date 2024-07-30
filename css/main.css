@@ -376,7 +376,8 @@ opacity: 100%;
 .sel-img-div{
   height: 275px;
   width: 45%;
-  border: 2mm ridge var(--color-primary);
+  border: 2px solid var(--color-primary);
+  border-radius: 2px;
 }
 .sel-text{
   align-content:center;
@@ -490,12 +491,15 @@ opacity: 100%;
     display:none;
   }
   #container {
-   width: 950px;
- }
- #airnav{
-  background-position: top;
-}
-#driveworks{
-  background-size: contain;
-}
+    width: 950px;
+  }
+  #airnav{
+    background-position: top;
+  }
+  #driveworks{
+    background-size: contain;
+  }
+  .sel-img-div{
+  height: 300px;
+  }
 }
