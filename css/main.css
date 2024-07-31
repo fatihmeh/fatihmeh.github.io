@@ -25,6 +25,7 @@ body {
   background: var(--color-background);
   font-optical-sizing: auto;
 }
+
 .theme-dark {
    --color-primary: #eee;
    --color-background: #222;
@@ -35,9 +36,9 @@ body {
    --invert-percent-2:100%;
    --invert-percent-3:100%;
    --color-card: #eee;
-   --color-category: white;
    --img-filter:100%;
-   --color-excerpt:gray;
+   --color-excerpt:#ddd;
+   --color-category: white;
 }
 .theme-light {
    --color-primary: #222;
@@ -49,10 +50,11 @@ body {
    --invert-percent-2:50%;
    --invert-percent-3:0%;
    --color-card: #333;
-   --color-category: #555D50;
    --img-filter:0%;
-   --color-excerpt:gray;
+   --color-excerpt:#222;
+   --color-category: black;
 }
+
 #container {
   width:60%; margin:auto; margin-top:0px; margin-bottom:0px;  text-align:left;
 }
