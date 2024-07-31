@@ -23,7 +23,6 @@ body {
   font-family: "Trebuchet MS", Verdana, sans-serif;
   color: var(--color-primary);
   background: var(--color-background);
-  font-optical-sizing: auto;
 }
 
 .theme-dark {
