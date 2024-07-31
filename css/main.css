@@ -456,7 +456,6 @@ opacity: 100%;
  }
  .row{
    display: none;
-   text-align: left;
  }
    .projects-list{
    display:block;
@@ -479,13 +478,19 @@ opacity: 100%;
 
 @media only screen and (min-width: 524px) and (max-width: 839px) {
   .projects-list{
-   display:block;
+   display: block;
  }
   .sel-col{
     display:block;
   }
   .sel-img-div, .sel-text{
       width:100%;
+    }
+     .row{
+   display: none;
+  }
+     .sel-text{
+      padding-top:10px;
     }
  #container {
   width: 70%;
