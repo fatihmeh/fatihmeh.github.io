@@ -44,7 +44,7 @@ body {
    --color-pa: darkslategray;
    --color-blog: DarkRed;
    --color-link: white;
-   --invert-percent-1:50%;
+   --invert-percent-1:75%;
    --invert-percent-2:100%;
    --invert-percent-3:100%;
    --color-card: #EEE;
@@ -223,7 +223,7 @@ a:hover, .blog-title:hover{
   filter: invert(var(--invert-percent-1));
 }
 .footer-links:hover {
-  filter: invert(var(--invert-percent-2));
+  filter: invert(45%) sepia(61%) saturate(2825%) hue-rotate(191deg) brightness(100%) contrast(102%);
 }
 
 .img-effect {
