@@ -42,15 +42,15 @@ body {
    --color-primary: #EEEEEE;
    --color-background: #101010;
    --color-pa: darkslategray;
-   --color-blog: DarkRed;
+   --color-blog: Red;
    --color-link: white;
    --invert-percent-1:75%;
    --invert-percent-2:100%;
    --invert-percent-3:100%;
-   --color-card: #EEE;
+   --color-card: #CCC;
    --img-filter:100%;
-   --color-excerpt: #EEE;
-   --color-category: DarkRed;
+   --color-excerpt: #CCC;
+   --color-category: Red;
    --color-hover: #1E90FF;
 }
 .theme-light {
@@ -100,7 +100,7 @@ p a {
 }
 
 .nav {
-  margin-right:8px; margin-left:8px; margin-bottom:5px;
+  margin-right:8px; margin-left:8px;
   color: var(--color-primary);
   font-size: 1rem;
 }
@@ -247,6 +247,7 @@ a:hover, .blog-title:hover{
   width: 32px;
   height: 18px;
   margin-right:8px; margin-left:8px;
+  top: 3px;
 }
 .switch input {
   opacity: 0;
