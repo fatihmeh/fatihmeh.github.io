@@ -526,10 +526,11 @@ opacity: 100%;
 /* adaptive */
 @media only screen and (max-width: 425px) {
     .switch {margin-top: 20px;}
+    #container {margin-top:0px;}
 }
 
 @media only screen and (max-width: 523px) {
-  #container {width: 90%;}
+  #container {width: 90%;margin-top:0px;}
   .row{display: none;}
   .projects-list{display:block;}
   .sel-col{display:block;}
@@ -546,7 +547,7 @@ opacity: 100%;
   .sel-img-div, .sel-text{width:100%;}
   .row{display: none;}
   .sel-text{padding-top:10px;}
-  #container {width: 70%;}
+  #container {width: 70%;margin-top:0px;}
   #airnav{background-position: top;}
   #driveworks{background-size: contain;}
 }
@@ -554,12 +555,12 @@ opacity: 100%;
 
 @media only screen and (min-width: 840px) and (max-width: 1439px) {
   .projects-list{display:none;}
-  #container {width: 760px;}
+  #container {width: 760px;margin-top:0px;}
 }
 
 @media only screen and (min-width: 1440px) {
   .projects-list{display:none;}
-  #container {width: 950px;}
+  #container {width: 950px;margin-top:0px;}
   #airnav{  background-position: top;}
   #driveworks{background-size: contain;}
   .sel-img-div{height: 300px;}
