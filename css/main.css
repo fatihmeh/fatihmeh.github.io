@@ -39,7 +39,7 @@ body {
 
 .theme-dark {
    --color-primary: #EEEEEE;
-   --color-background: #101010;
+   --color-background: #252a31;
    --color-pa: darkslategray;
    --color-blog: Red;
    --color-link: white;
@@ -53,7 +53,7 @@ body {
    --color-hover: #1E90FF;
 }
 .theme-light {
-   --color-primary: #101010;
+   --color-primary: #252a31;
    --color-background: #EEEEEE;
    --color-pa: lightsteelblue;
    --color-blog: darkcyan;
@@ -109,7 +109,7 @@ p a {
 }
 
 #navdiv {
-  width:90%;  margin:auto;
+  width:50%;  margin:auto;
   padding-top:0px; padding-bottom: 15px;
   border-bottom: 6px solid var(--color-primary);
 }
@@ -407,7 +407,7 @@ opacity: 100%;
 }
 .sel-img-div{
   height: 275px;
-  width: 45%;
+  width: 48%;
   border: 1px solid var(--color-primary);
   border-radius: 6px;
 }
@@ -494,6 +494,8 @@ opacity: 100%;
       padding-right:5px;
     }
     #airnav{background-position: top;}
+    #navdiv {
+  width:90%; }
 }
 
 @media only screen and (min-width: 524px) and (max-width: 839px) {
@@ -521,7 +523,10 @@ opacity: 100%;
 #driveworks{
   background-size: contain;
 }
+#navdiv {
+  width:90%; }
 }
+
 
 @media only screen and (min-width: 840px) and (max-width: 1439px) {
  .projects-list{
@@ -530,6 +535,8 @@ opacity: 100%;
  #container {
   width: 760px;
 }
+#navdiv {
+  width:70%; }
 }
 
 @media only screen and (min-width: 1440px) {
