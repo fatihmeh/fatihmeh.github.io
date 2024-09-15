@@ -12,3 +12,4 @@ collections:
   posts:
     output: true
 timezone: Asia/Istanbul
+baseurl:
