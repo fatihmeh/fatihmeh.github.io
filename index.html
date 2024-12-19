@@ -219,20 +219,6 @@
                   </ul>
                 </div>
           </section>
-          <section id="blog" class="tab-panel">
-                  <h2 class="parag-header">Check out my readings and writings</h2>
-
-                  <ul class="ul-blog-list">
-                      {% for post in site.posts %}
-                      <li class="filterCat {{ post.category }}">
-                      <p class="blog-date"><span class="info-text">{{ post.date | date_to_string }} {{ post.lang }}</span></p>
-                      <a class="blog-title" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}
-                      <p class="blog-excerpt">{{ post.excerpt }}</p></a>
-                      <p class="category">{{ post.category }}</p>
-                      </li>
-                      {% endfor %}
-                  </ul>
-          </section>
       </div>
   </div>
   
