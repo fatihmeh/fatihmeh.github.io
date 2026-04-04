@@ -130,7 +130,6 @@ input:focus-visible + label {
   border-top: 1px solid #ccc;
 }
 
-
 /* top */
 #header-div {
   text-align:center; padding-bottom: 0px; padding-top:60px;
@@ -140,7 +139,7 @@ input:focus-visible + label {
   font-size: 2rem;
   font-weight: 400;
   font-family: BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
-  text-shadow: 2px 2px 1px var(--color-textshadow);
+  text-shadow: 2px 1px 1px var(--color-textshadow);
 }
 #header-text a {
   text-decoration: none;
@@ -162,6 +161,15 @@ input:focus-visible + label {
 .parag-header{
   font-size: 1.4rem; margin-bottom:30px;
   color: var(--color-primary);
+}
+.parag-header-mod{
+  font-size: 1.4rem; margin-bottom:5px;
+  color: var(--color-primary);
+}
+.parag-sub{
+  font-size: 0.8rem; /* margin-bottom:0px */;
+  color: var(--color-primary);
+  font-style: italic;
 }
 
 #navdiv {
@@ -439,9 +447,26 @@ opacity: 100%;
       padding-left:5px;
       padding-right:5px;}
   #airnav{background-position: top;}
+  .tab-panel { border-top: 0px;}
+  .tabset > input:checked + label {  border-color: #ccc;  border-bottom: 1px solid var(#ccc); border-radius: 5px ;}
+  .parag-sub{  font-size: 0.6rem; }
 }
 
-@media only screen and (min-width: 524px) and (max-width: 839px) {
+@media only screen and (min-width: 524px) and (max-width: 615px) {
+  .projects-list{display: block;}
+  .sel-col{display:block;}
+  .sel-img-div, .sel-text{width:100%;}
+  .row{display: none;}
+  .sel-text{padding-top:10px;}
+  #container {width: 85%;margin-top:0px;}
+  #airnav{background-position: top;}
+  #driveworks{background-size: contain;}  
+  .tab-panel { border-top: 0px;}
+  .tabset > input:checked + label {  border-color: #ccc;  border-bottom: 1px solid var(#ccc); border-radius: 5px ;}
+  .parag-sub{  font-size: 0.6rem; } 
+}
+
+@media only screen and (min-width: 616px) and (max-width: 839px) {
   .projects-list{display: block;}
   .sel-col{display:block;}
   .sel-img-div, .sel-text{width:100%;}
@@ -449,7 +474,7 @@ opacity: 100%;
   .sel-text{padding-top:10px;}
   #container {width: 70%;margin-top:0px;}
   #airnav{background-position: top;}
-  #driveworks{background-size: contain;}
+  #driveworks{background-size: contain;}  
 }
 
 @media only screen and (min-width: 840px) and (max-width: 1439px) {
