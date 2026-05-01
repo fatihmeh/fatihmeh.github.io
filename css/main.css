@@ -58,6 +58,7 @@ body {
 
 #container {
   width:60%; margin:auto; margin-top:0px; margin-bottom:0px;  text-align:left;
+  border-bottom: 1px solid #ccc;
 }
 
 p a {
@@ -132,14 +133,14 @@ input:focus-visible + label {
 
 /* top */
 #header-div {
-  text-align:center; padding-bottom: 0px; padding-top:60px;
+  text-align:center; padding-bottom: 10px; padding-top:60px;
 }
 #header-text {
   margin-bottom:15px;
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 400;
   font-family: BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
-  text-shadow: 2px 1px 1px var(--color-textshadow);
+  /* text-shadow: 2px 1px 1px var(--color-textshadow); */
 }
 #header-text a {
   text-decoration: none;
@@ -230,6 +231,9 @@ a:hover {
 
 
 /* footer */
+#footer-div {
+  text-align:center; padding-bottom: 30px; padding-top:30px;
+}
 .footer-links{
   margin-right:5px;margin-left:5px; display:inline-block;
   filter: invert(var(--invert-percent-1));
@@ -392,6 +396,11 @@ opacity: 100%;
   width: 50%;
 }
 
+.sel-text ul li {
+  margin-left: 12px;
+  list-style-position: outside;
+}
+
 .sel-col{
   display: flex;
   /* margin-bottom:20px; */
@@ -448,7 +457,7 @@ opacity: 100%;
       padding-right:5px;}
   #airnav{background-position: top;}
   .tab-panel { border-top: 0px;}
-  .tabset > input:checked + label {  border-color: #ccc;  border-bottom: 1px solid var(#ccc); border-radius: 5px ;}
+  .tabset > input:checked + label { border-color: #ccc;  border-bottom: 1px solid var(#ccc); border-radius: 5px; }
   .parag-sub{  font-size: 0.6rem; }
 }
 
