@@ -87,7 +87,7 @@ p a {
 .tabset > label {
   position: relative;
   display: inline-block;
-  padding: 15px 15px 25px;
+  padding: 15px 15px 20px;
   border: 1px solid transparent;
   border-bottom: 0;
   cursor: pointer;
@@ -372,6 +372,12 @@ opacity: 100%;
   background-repeat: no-repeat;
   background-size: cover;
 }
+#adapter{
+  background-image: url("/assets/sel_adapter-1.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
 .first{
       order:0;
@@ -442,8 +448,26 @@ opacity: 100%;
 
 
 /* adaptive */
+
 @media only screen and (max-width: 425px) {
     #container {margin-top:0px;}
+
+    .tabset > label {
+      font-size: 0.6rem;      /* 🐭 smaller = unselected */
+    }
+    .tabset > input:checked + label {
+      font-size: 0.8rem;         /* 🐘 normal/bigger = selected */
+    }
+}
+
+@media only screen and (min-width: 426px) and (max-width: 479px) {
+    
+  .tabset > label {
+      font-size: 0.7rem;      /* 🐭 smaller = unselected */
+    }
+    .tabset > input:checked + label {
+      font-size: 1rem;         /* 🐘 normal/bigger = selected */
+    }
 }
 
 @media only screen and (max-width: 523px) {
@@ -459,6 +483,7 @@ opacity: 100%;
   .tab-panel { border-top: 0px;}
   .tabset > input:checked + label { border-color: #ccc;  border-bottom: 1px solid var(#ccc); border-radius: 5px; }
   .parag-sub{  font-size: 0.6rem; }
+
 }
 
 @media only screen and (min-width: 524px) and (max-width: 615px) {
