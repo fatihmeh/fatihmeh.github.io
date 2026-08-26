@@ -456,7 +456,7 @@ opacity: 100%;
       font-size: 0.6rem;      /* 🐭 smaller = unselected */
     }
     .tabset > input:checked + label {
-      font-size: 0.8rem;         /* 🐘 normal/bigger = selected */
+      font-size: 0.9rem;         /* 🐘 normal/bigger = selected */
     }
 }
 
