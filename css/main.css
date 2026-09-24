@@ -452,22 +452,30 @@ opacity: 100%;
 @media only screen and (max-width: 425px) {
     #container {margin-top:0px;}
 
+/*
     .tabset > label {
-      font-size: 0.6rem;      /* 🐭 smaller = unselected */
+      font-size: 0.6rem;
     }
     .tabset > input:checked + label {
-      font-size: 0.9rem;         /* 🐘 normal/bigger = selected */
+      font-size: 0.9rem;
     }
+*/
+  .tabset > label {display:block; width: 100%;}
+  
 }
 
 @media only screen and (min-width: 426px) and (max-width: 479px) {
     
+  /*
   .tabset > label {
-      font-size: 0.7rem;      /* 🐭 smaller = unselected */
+      font-size: 0.7rem;
     }
     .tabset > input:checked + label {
-      font-size: 1rem;         /* 🐘 normal/bigger = selected */
+      font-size: 1rem;
     }
+  */
+
+  .tabset > label {display:block; width: 100%;}
 }
 
 @media only screen and (max-width: 523px) {
