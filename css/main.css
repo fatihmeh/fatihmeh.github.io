@@ -58,7 +58,7 @@ body {
 
 #container {
   width:60%; margin:auto; margin-top:0px; margin-bottom:0px;  text-align:left;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 2px solid #ccc;
 }
 
 p a {
@@ -88,7 +88,7 @@ p a {
   position: relative;
   display: inline-block;
   padding: 15px 15px 20px;
-  border: 1px solid transparent;
+  border: 2px solid transparent;
   border-bottom: 0;
   cursor: pointer;
   font-weight: 600;
@@ -122,13 +122,13 @@ input:focus-visible + label {
 
 .tabset > input:checked + label {
   border-color: #ccc;
-  border-bottom: 1px solid var(--color-background);
-  margin-bottom: -1px;
+  border-bottom: 2px solid var(--color-background);
+  margin-bottom: -2px;
 }
 
 .tab-panel {
   padding: 30px 0;
-  border-top: 1px solid #ccc;
+  border-top: 2px solid #ccc;
 }
 
 /* top */
@@ -137,8 +137,8 @@ input:focus-visible + label {
 }
 #header-text {
   margin-bottom:15px;
-  font-size: 1.8rem;
-  font-weight: 400;
+  font-size: 1.6rem;
+  font-weight: 600;
   font-family: BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
   /* text-shadow: 2px 1px 1px var(--color-textshadow); */
 }
@@ -460,7 +460,13 @@ opacity: 100%;
       font-size: 0.9rem;
     }
 */
-  .tabset > label {display:block; width: 100%;}
+    .tabset > label {
+    display:block;
+    width: 70%;
+    /* font-size: 0.5rem; */
+  }
+  .tabset > input:not(:checked) + label {color:#444}
+  #header-div {padding-top:20px;}
   
 }
 
@@ -475,7 +481,14 @@ opacity: 100%;
     }
   */
 
-  .tabset > label {display:block; width: 100%;}
+  .tabset > label {
+    display:block;
+    width: 70%;
+    /* font-size: 0.7rem; */
+  }
+  .tabset > input:not(:checked) + label {color:#444}
+  #header-div {padding-top:45px;}
+
 }
 
 @media only screen and (max-width: 523px) {
