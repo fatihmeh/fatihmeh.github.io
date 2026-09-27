@@ -450,49 +450,33 @@ opacity: 100%;
 /* adaptive */
 
 @media only screen and (max-width: 425px) {
-    #container {margin-top:0px;}
-
-/*
-    .tabset > label {
-      font-size: 0.6rem;
-    }
-    .tabset > input:checked + label {
-      font-size: 0.9rem;
-    }
-*/
+    #container {margin-top:0px;width:90%;}
     .tabset > label {
     display:block;
     width: 70%;
-    /* font-size: 0.5rem; */
   }
   .tabset > input:not(:checked) + label {color:#444}
   #header-div {padding-top:20px;}
-  
+  .tab-panel { border-top: 0px;}
+  .tabset > input:checked + label { border-color: #ccc;  border-bottom: 1px solid var(#ccc); border-radius: 5px; }
+  .parag-sub{  font-size: 0.6rem; }
 }
 
 @media only screen and (min-width: 426px) and (max-width: 479px) {
-    
-  /*
-  .tabset > label {
-      font-size: 0.7rem;
-    }
-    .tabset > input:checked + label {
-      font-size: 1rem;
-    }
-  */
-
+  #container {margin-top:0px;width:80%;}
   .tabset > label {
     display:block;
     width: 70%;
-    /* font-size: 0.7rem; */
   }
   .tabset > input:not(:checked) + label {color:#444}
   #header-div {padding-top:45px;}
-
+  .tab-panel { border-top: 0px;}
+  .tabset > input:checked + label { border-color: #ccc;  border-bottom: 1px solid var(#ccc); border-radius: 5px; }
+  .parag-sub{  font-size: 0.6rem; }
 }
 
-@media only screen and (max-width: 523px) {
-  #container {width: 90%;margin-top:0px;}
+@media only screen and (min-width: 426px) and (max-width: 523px) {
+  #container {margin-top:0px;width: 80%;}
   .row{display: none;}
   .projects-list{display:block;}
   .sel-col{display:block;}
@@ -504,7 +488,6 @@ opacity: 100%;
   .tab-panel { border-top: 0px;}
   .tabset > input:checked + label { border-color: #ccc;  border-bottom: 1px solid var(#ccc); border-radius: 5px; }
   .parag-sub{  font-size: 0.6rem; }
-
 }
 
 @media only screen and (min-width: 524px) and (max-width: 615px) {
@@ -518,7 +501,7 @@ opacity: 100%;
   #driveworks{background-size: contain;}  
   .tab-panel { border-top: 0px;}
   .tabset > input:checked + label {  border-color: #ccc;  border-bottom: 1px solid var(#ccc); border-radius: 5px ;}
-  .parag-sub{  font-size: 0.6rem; } 
+  .parag-sub{  font-size: 0.6rem; }
 }
 
 @media only screen and (min-width: 616px) and (max-width: 839px) {
@@ -527,14 +510,14 @@ opacity: 100%;
   .sel-img-div, .sel-text{width:100%;}
   .row{display: none;}
   .sel-text{padding-top:10px;}
-  #container {width: 70%;margin-top:0px;}
+  #container {width: 75%;margin-top:0px;}
   #airnav{background-position: top;}
   #driveworks{background-size: contain;}  
 }
 
 @media only screen and (min-width: 840px) and (max-width: 1439px) {
   .projects-list{display:none;}
-  #container {width: 760px;margin-top:0px;}
+  #container {width: 760px;margin-top:0px;width: 60%;}
 }
 
 @media only screen and (min-width: 1440px) {
