@@ -105,7 +105,7 @@ p a {
 
 input:focus-visible + label {
   outline: 2px solid var(--color-hover);
-  border-radius: 3px;
+  border-radius: 2px;
 }
 
 .tabset > label:hover,
@@ -124,6 +124,7 @@ input:focus-visible + label {
   border-color: #ccc;
   border-bottom: 2px solid var(--color-background);
   margin-bottom: -2px;
+  border-radius: 5px 5px 0 0;
 }
 
 .tab-panel {
