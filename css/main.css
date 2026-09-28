@@ -491,7 +491,7 @@ opacity: 100%;
   .parag-sub{  font-size: 0.6rem; }
 }
 
-@media only screen and (max-width: 615px) {
+@media only screen and (min-width: 524px) and (max-width: 615px) {
   .projects-list{display: block;}
   .sel-col{display:block;}
   .sel-img-div, .sel-text{width:100%;}
@@ -518,7 +518,7 @@ opacity: 100%;
 
 @media only screen and (min-width: 840px) and (max-width: 1439px) {
   .projects-list{display:none;}
-  #container {width: 760px;margin-top:0px;width: 70%;}
+  #container {width: 760px;margin-top:0px;width: 60%;}
 }
 
 @media only screen and (min-width: 1440px) {
