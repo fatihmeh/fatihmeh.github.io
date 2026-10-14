@@ -51,14 +51,16 @@ body {
    --img-filter:0%;
    --color-excerpt:#333;
    --color-category: darkcyan;
-   --color-hover: #1E90FF;
-   --color-textshadow: #CCC;
+   --color-hover: #0047abda;
+   --color-textshadow: #ccc;
    --color-tab-background: #8d8d8d;
+   --color-not-checked: #444;
+   --color-border: #ccc;
 }
 
 #container {
   width:60%; margin:auto; margin-top:0px; margin-bottom:0px;  text-align:left;
-  border-bottom: 2px solid #ccc;
+  border-bottom: 2px solid var(--color-border);
 }
 
 p a {
@@ -121,15 +123,16 @@ input:focus-visible + label {
 }
 
 .tabset > input:checked + label {
-  border-color: #ccc;
-  border-bottom: 2px solid var(--color-background);
+  border-color: var(--color-border);
   margin-bottom: -2px;
-  border-radius: 5px 5px 0 0;
+  /* border-radius: 5px 5px 0 0; */
+  border-bottom: 2px solid var(--color-border);
+  border-radius: 5px;
 }
 
 .tab-panel {
   padding: 30px 0;
-  border-top: 2px solid #ccc;
+  /* border-top: 2px solid var(--color-border); */
 }
 
 /* top */
@@ -241,7 +244,7 @@ a:hover {
 }
 
 .footer-links:hover {
-  filter: invert(45%) sepia(61%) saturate(2825%) hue-rotate(191deg) brightness(100%) contrast(102%);
+  filter: brightness(0) saturate(100%) invert(15%) sepia(89%) saturate(3127%) hue-rotate(208deg) brightness(93%) contrast(102%);
 }
 
 .img-effect {
@@ -452,28 +455,20 @@ opacity: 100%;
 
 @media only screen and (max-width: 425px) {
     #container {margin-top:0px;width:90%;}
-    .tabset > label {
-    display:block;
-    width: 70%;
-  }
-  .tabset > input:not(:checked) + label {color:#444}
+    .tabset > label {display:block; width: 70%;}
+  /* .tabset > input:not(:checked) + label {color:var(--color-not-checked)} */
   #header-div {padding-top:20px;}
-  .tab-panel { border-top: 0px;}
-  .tabset > input:checked + label { border-color: #ccc;  border-bottom: 1px solid var(#ccc); border-radius: 5px; }
-  .parag-sub{  font-size: 0.6rem; }
+  .tab-panel {border-top: 0px;}
+  .parag-sub{font-size: 0.6rem;}
 }
 
 @media only screen and (min-width: 426px) and (max-width: 479px) {
   #container {margin-top:0px;width:80%;}
-  .tabset > label {
-    display:block;
-    width: 70%;
-  }
-  .tabset > input:not(:checked) + label {color:#444}
+  .tabset > label {display:block;width: 70%;}
+  /* .tabset > input:not(:checked) + label {color:var(--color-not-checked)} */
   #header-div {padding-top:45px;}
-  .tab-panel { border-top: 0px;}
-  .tabset > input:checked + label { border-color: #ccc;  border-bottom: 1px solid var(#ccc); border-radius: 5px; }
-  .parag-sub{  font-size: 0.6rem; }
+  .tab-panel {border-top: 0px;}
+  .parag-sub{font-size: 0.6rem;}
 }
 
 @media only screen and (min-width: 426px) and (max-width: 523px) {
@@ -487,7 +482,6 @@ opacity: 100%;
       padding-right:5px;}
   #airnav{background-position: top;}
   .tab-panel { border-top: 0px;}
-  .tabset > input:checked + label { border-color: #ccc;  border-bottom: 1px solid var(#ccc); border-radius: 5px; }
   .parag-sub{  font-size: 0.6rem; }
 }
 
@@ -501,7 +495,6 @@ opacity: 100%;
   #airnav{background-position: top;}
   #driveworks{background-size: contain;}  
   .tab-panel { border-top: 0px;}
-  .tabset > input:checked + label {  border-color: #ccc;  border-bottom: 1px solid var(#ccc); border-radius: 5px ;}
   .parag-sub{  font-size: 0.6rem; }
 }
 

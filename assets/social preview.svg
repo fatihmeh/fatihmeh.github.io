@@ -7,9 +7,9 @@
    viewBox="0 0 338.66668 169.33333"
    version="1.1"
    id="svg203"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
    sodipodi:docname="social preview.svg"
-   inkscape:export-filename="D:\github\fatihmeh.github.io\assets\tb.png"
+   inkscape:export-filename="social preview.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,15 +27,17 @@
      inkscape:document-units="mm"
      showgrid="false"
      units="px"
-     inkscape:zoom="0.5096119"
-     inkscape:cx="723.09929"
-     inkscape:cy="358.11566"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="1.0192238"
+     inkscape:cx="711.32562"
+     inkscape:cy="377.24786"
+     inkscape:window-width="2560"
+     inkscape:window-height="1412"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs200" />
   <g
@@ -52,7 +54,7 @@
        id="g620"
        transform="matrix(1.1090777,0,0,1.1090777,79.35921,-3.267222)">
       <text
-         style="line-height:1.25;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"
+         style="line-height:1.25;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;fill:#0047ab;fill-opacity:1"
          x="50.473"
          y="277.17599"
          fill="#d2691e"
@@ -60,17 +62,17 @@
          id="text614"><tspan
            x="50.473"
            y="277.17599"
-           style="-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"
+           style="-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;fill:#0047ab;fill-opacity:1"
            id="tspan612">f</tspan></text>
       <text
-         style="line-height:1.25;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"
+         style="line-height:1.25;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;fill:#252a31;fill-opacity:1"
          x="48.869999"
          y="275.297"
          transform="translate(0,-138.25)"
          id="text618"><tspan
            x="48.869999"
            y="275.297"
-           style="-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"
+           style="-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;fill:#252a31;fill-opacity:1"
            id="tspan616">f</tspan></text>
     </g>
   </g>
