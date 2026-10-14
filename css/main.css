@@ -454,12 +454,10 @@ opacity: 100%;
 /* adaptive */
 
 @media only screen and (max-width: 425px) {
-    #container {margin-top:0px;width:90%;}
-    .tabset > label {display:block; width: 70%;}
+  #container {margin-top:0px;width:90%;}
+  .tabset > label {display:block; width: 70%;}
   /* .tabset > input:not(:checked) + label {color:var(--color-not-checked)} */
   #header-div {padding-top:20px;}
-  .tab-panel {border-top: 0px;}
-  .parag-sub{font-size: 0.6rem;}
 }
 
 @media only screen and (min-width: 426px) and (max-width: 479px) {
@@ -467,22 +465,15 @@ opacity: 100%;
   .tabset > label {display:block;width: 70%;}
   /* .tabset > input:not(:checked) + label {color:var(--color-not-checked)} */
   #header-div {padding-top:45px;}
-  .tab-panel {border-top: 0px;}
-  .parag-sub{font-size: 0.6rem;}
 }
 
-@media only screen and (min-width: 426px) and (max-width: 523px) {
+@media only screen and (min-width: 480px) and (max-width: 523px) {
+  .tabset > label {display:block;width: 70%;}
   #container {margin-top:0px;width: 80%;}
-  .row{display: none;}
-  .projects-list{display:block;}
-  .sel-col{display:block;}
-  .sel-img-div, .sel-text{width:100%;}
   .sel-text{padding-top:10px;
       padding-left:5px;
       padding-right:5px;}
   #airnav{background-position: top;}
-  .tab-panel { border-top: 0px;}
-  .parag-sub{  font-size: 0.6rem; }
 }
 
 @media only screen and (max-width: 615px) {
