@@ -458,6 +458,7 @@ opacity: 100%;
   .tabset > label {display:block; width: 70%;}
   /* .tabset > input:not(:checked) + label {color:var(--color-not-checked)} */
   #header-div {padding-top:20px;}
+  .sel-text{padding-top:10px; padding-left:5px; padding-right:5px;}
 }
 
 @media only screen and (min-width: 426px) and (max-width: 479px) {
@@ -465,15 +466,18 @@ opacity: 100%;
   .tabset > label {display:block;width: 70%;}
   /* .tabset > input:not(:checked) + label {color:var(--color-not-checked)} */
   #header-div {padding-top:45px;}
+  .sel-text{padding-top:10px; padding-left:5px; padding-right:5px;}
 }
 
 @media only screen and (min-width: 480px) and (max-width: 523px) {
   .tabset > label {display:block;width: 70%;}
   #container {margin-top:0px;width: 80%;}
-  .sel-text{padding-top:10px;
-      padding-left:5px;
-      padding-right:5px;}
   #airnav{background-position: top;}
+  .sel-text{padding-top:10px; padding-left:5px; padding-right:5px;}
+}
+
+@media only screen and (min-width: 524px) and (max-width: 614px) {
+  .tabset > label {position: relative; display: inline-block;}
 }
 
 @media only screen and (max-width: 615px) {
