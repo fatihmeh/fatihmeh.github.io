@@ -19,9 +19,9 @@ time, mark, audio, video {
 * {box-sizing: border-box;}
 
 html {
-  -moz-text-size-adjust: none;
-  -webkit-text-size-adjust: none;
-  text-size-adjust: none;
+  -moz-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
 }
 
 html, body {
@@ -453,33 +453,6 @@ opacity: 100%;
 
 /* adaptive */
 
-@media only screen and (max-width: 425px) {
-  #container {margin-top:0px;width:90%;}
-  .tabset > label {display:block; width: 70%;}
-  /* .tabset > input:not(:checked) + label {color:var(--color-not-checked)} */
-  #header-div {padding-top:20px;}
-  .sel-text{padding-top:10px; padding-left:5px; padding-right:5px;}
-}
-
-@media only screen and (min-width: 426px) and (max-width: 479px) {
-  #container {margin-top:0px;width:80%;}
-  .tabset > label {display:block;width: 70%;}
-  /* .tabset > input:not(:checked) + label {color:var(--color-not-checked)} */
-  #header-div {padding-top:45px;}
-  .sel-text{padding-top:10px; padding-left:5px; padding-right:5px;}
-}
-
-@media only screen and (min-width: 480px) and (max-width: 523px) {
-  .tabset > label {display:block;width: 70%;}
-  #container {margin-top:0px;width: 80%;}
-  #airnav{background-position: top;}
-  .sel-text{padding-top:10px; padding-left:5px; padding-right:5px;}
-}
-
-@media only screen and (min-width: 524px) and (max-width: 614px) {
-  .tabset > label {position: relative; display: inline-block;}
-}
-
 @media only screen and (max-width: 615px) {
   .projects-list{display: block;}
   .sel-col{display:block;}
@@ -491,6 +464,27 @@ opacity: 100%;
   #driveworks{background-size: contain;}  
   .tab-panel { border-top: 0px;}
   .parag-sub{  font-size: 0.6rem; }
+}
+
+@media only screen and (max-width: 425px) {
+  #container {margin-top:0px;width:90%;}
+  .tabset > label {display:block; width: 70%;}
+  #header-div {padding-top:20px;}
+  .sel-text{padding-top:10px; padding-left:5px; padding-right:5px;}
+}
+
+@media only screen and (min-width: 426px) and (max-width: 479px) {
+  #container {margin-top:0px;width:80%;}
+  .tabset > label {display:block;width: 70%;}
+  #header-div {padding-top:45px;}
+  .sel-text{padding-top:10px; padding-left:5px; padding-right:5px;}
+}
+
+@media only screen and (min-width: 480px) and (max-width: 523px) {
+  .tabset > label {display:block;width: 70%;}
+  #container {margin-top:0px;width: 80%;}
+  #airnav{background-position: top;}
+  .sel-text{padding-top:10px; padding-left:5px; padding-right:5px;}
 }
 
 @media only screen and (min-width: 616px) and (max-width: 839px) {
